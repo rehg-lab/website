@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Jim Rehg
+title: Stefan Stojanov
 
 # Username (this should match the folder name)
 authors:
-- admin
+- stefan
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: ""
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 experiences:
   positions:

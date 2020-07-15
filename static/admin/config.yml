@@ -23,10 +23,15 @@ collections:
             multiple: false
       - {label: "Short biography (shown in author boxes)", name: "bio", widget: "string", required: false}
       - {label: "Full biography (shown in About widget)", name: "body", widget: "markdown", required: false}
-      - label: "Interests (shown in About widget)"
-        name: "interests"
+      - label: "Experiences"
+        name: "experiences"
         required: false
-        widget: "list"
+        widget: list
+        fields:
+          - {label: Title, name: title, widget: string, required: true}
+          - {label: Organization, name: organization, widget: string, required: true}
+          - {label: Date Start, name: date_start, widget: string, required: true}
+          - {label: Date End, name: date_end, widget: string, required: false}
       - label: Social links
         name: social
         required: false
@@ -51,7 +56,7 @@ collections:
         fields:
           - {label: Organization, name: name, widget: string, required: true}
           - {label: Link, name: url, widget: string, required: false}
-      - label: "Education"
+      - label: "Education & Training"
         name: "education"
         required: false
         widget: object

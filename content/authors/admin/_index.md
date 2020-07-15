@@ -20,22 +20,23 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+experiences:
+- title: co-Director
+  organization: Center for Computational Health, Georgia Institute of Technology
+  date_start: 2015
+  date_end: present
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D. in Electrical and Computer Engineering
+    institution: Carnegie Mellon University
+    year: 1995
+  - course: Master in Electrical and Computer Engineering
+    institution: Carnegie Mellon University
+    year: 1988
+  - course: Bachelor of Electrical Engineering
+    institution: Virginia Polytechnic Institute
+    year: 1986
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

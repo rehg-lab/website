@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "{{ replace .Name "-" " " | title }}"
-authors: []
-date: {{ .Date }}
+title: "3D Reconstruction of Novel Object Shapes from Single Images"
+authors: ["Anh Thai", "Stefan Stojanov", "Vijay Upadhya", "Jim Rehg"]
+# date: {{ .Date }}
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: {{ .Date }}
+# publishDate: {{ .Date }}
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,7 +26,7 @@ summary: "Key issues that affect generalization to unseen shapes in single-view 
 
 tags: ["Deep Learning", "3D"]
 categories: ["3D"]
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

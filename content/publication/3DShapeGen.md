@@ -3,7 +3,7 @@
 
 title: "3D Reconstruction of Novel Object Shapes from Single Images"
 authors: ["Anh Thai", "Stefan Stojanov", "Vijay Upadhya", "Jim Rehg"]
-# date: {{ .Date }}
+date: 2020-06-14
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -26,7 +26,7 @@ summary: "Key issues that affect generalization to unseen shapes in single-view 
 
 tags: ["Deep Learning", "3D"]
 categories: ["3D"]
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

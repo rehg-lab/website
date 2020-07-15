@@ -28,8 +28,8 @@ collections:
         required: false
         widget: list
         fields:
-          - {label: "Title", name: "title", widget: string, required: true}
-          - {label: "Organization", name: "organization", widget: string, required: true}
+          - {label: Title, name: title, widget: string, required: true}
+          - {label: Organization, name: organization, widget: string, required: true}
       - label: Social links
         name: social
         required: false

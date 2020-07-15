@@ -21,8 +21,9 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 experiences:
-- title: co-Director
-  organization: Center for Computational Health, Georgia Institute of Technology
+  positions:
+  - title: co-Director
+    organization: Center for Computational Health, Georgia Institute of Technology
 
 education:
   courses:

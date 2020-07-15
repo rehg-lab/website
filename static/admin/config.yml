@@ -26,10 +26,16 @@ collections:
       - label: "Experiences"
         name: "experiences"
         required: false
-        widget: list
+        widget: object
         fields:
-          - {label: Title, name: title, widget: string, required: true}
-          - {label: Organization, name: organization, widget: string, required: true}
+          - label: "Positions"
+            name: "positions"
+            required: false
+            widget: list
+            fields:
+                - {label: Title, name: title, widget: string, required: true}
+                - {label: Organization, name: organization, widget: string, required: true}
+
       - label: Social links
         name: social
         required: false
@@ -54,7 +60,7 @@ collections:
         fields:
           - {label: Organization, name: name, widget: string, required: true}
           - {label: Link, name: url, widget: string, required: false}
-      - label: "Education & Training"
+      - label: "Education"
         name: "education"
         required: false
         widget: object

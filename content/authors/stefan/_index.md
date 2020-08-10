@@ -25,9 +25,12 @@ bio: ""
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: external-link-alt
+  icon_pack: fas
+  link: www.sstojanov.com
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:sstojanov@gatech.edu".
+  link: mailto:sstojanov@gatech.edu
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/sstj5

@@ -49,3 +49,9 @@ email: ""
 user_groups:
 - Grad Students
 ---
+
+I am a PhD student in the School of Interactive Computing at the Georgia Institute of Technology advised by [James Rehg](http://rehg.org/). I have a general research interest in computer vision, specifically in incremental learning and 3D shape reconstruction and categorization. I am also interested in studying machine perception from a develop
+ntal learning perspective.
+
+During my bachelor's I did Summer research projects with [Michael Lawrence](https://personal.broadinstitute.org/lawrence/) at the [Broad Institute](https://www.broadinstitute.org/) and with [Sven Anderson](https://www.bard.edu/academics/faculty/details/?id=45) at [BSRI](http://www.bard.edu/academics/additional/details/?id=9540623) (Bard Summer
+search Institute).

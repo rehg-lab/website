@@ -27,7 +27,7 @@ bio: ""
 social:
 - icon: external-link-alt
   icon_pack: fas
-  link: www.sstojanov.com
+  link: https://www.sstojanov.com
 - icon: envelope
   icon_pack: fas
   link: mailto:sstojanov@gatech.edu

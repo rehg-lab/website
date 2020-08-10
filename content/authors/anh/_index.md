@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Grad Student
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -51,6 +51,8 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "athai6@gatech.edu"
+
+external_link: https://anhthai1997.wordpress.com/
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

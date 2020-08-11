@@ -31,7 +31,7 @@ summary: We present an unsupervised learning approach to re-cover 3D human pose 
 
 
 tags:
-- Source Themes
+- 3D Pose Estimation
 featured: false
 
 links:

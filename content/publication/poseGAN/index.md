@@ -5,7 +5,7 @@ authors:
 - Ambrish Tyagi
 - Amit Agrawal
 - Dylan Drover
-- [Stefan Stojanov](https://www.stefanstojanov.com)
+- Stefan Stojanov
 - admin
 date: "2017-06-15"
 doi: ""

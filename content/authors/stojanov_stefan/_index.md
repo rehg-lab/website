@@ -4,7 +4,7 @@ title: Stefan Stojanov
 
 # Username (this should match the folder name)
 authors:
-- stefan
+- stojanov_stefan
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,11 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: ""
 
-interests:
-- Computer Vision
-- Machine Learning
-- Artificial Intelligence
-
 education:
   courses:
   - course: PhD in Computer Science
@@ -39,22 +34,6 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: external-link-alt
-  icon_pack: fas
-  link: https://www.stefanstojanov.com
-- icon: envelope
-  icon_pack: fas
-  link: mailto:sstojanov@gatech.edu
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/sstj5
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=XC_WricAAAAJ&hl
-- icon: github
-  icon_pack: fab
-  link: https://github.com/sstojanov
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -66,8 +45,9 @@ user_groups:
 ---
 
 # Short Bio
-I have a general research interest in computer vision, specifically in incremental learning and 3D shape reconstruction and categorization. I am also interested in studying machine perception from a develop
-ntal learning perspective.
+I have a general research interest in computer vision, specifically in incremental learning and 3D shape reconstruction and categorization. I am also interested in studying machine perception from a developmental learning perspective.
 
 During my bachelor's I did Summer research projects with [Michael Lawrence](https://personal.broadinstitute.org/lawrence/) at the [Broad Institute](https://www.broadinstitute.org/) and with [Sven Anderson](https://www.bard.edu/academics/faculty/details/?id=45) at [BSRI](http://www.bard.edu/academics/additional/details/?id=9540623) (Bard Summer
 search Institute).
+
+[Link to my website](https://www.stefanstojanov.com)

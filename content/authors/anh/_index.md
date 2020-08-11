@@ -20,17 +20,28 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: ""
 
+interests:
+- Computer Vision
+- Deep Learning
+- Artificial Intelligence
+
 education:
   courses:
+  - course: PhD in Computer Science
+    institution: Georgia Institute of Technology
+    year: 2019-present
   - course: Bachelor of Science in Computer Science
     institution: Georgia Institute of Technology
-    year: 2019
+    year: 2015-2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: external-link-alt
+  icon_pack: fas
+  link: https://anhthai1997.wordpress.com/
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
@@ -59,3 +70,7 @@ external_link: https://anhthai1997.wordpress.com/
 user_groups:
 - Grad Students
 ---
+# Short Bio
+My research interests lie broadly in the field of Computer Vision inspired by developmental psychology and cognitive science. I am currently working on continual learning, 3D shape reconstruction and social behavior understanding.
+
+Prior to PhD, I graduated with a B.S. in Computer Science from Georgia Tech. During my undergrad, I was a Software Engineering Intern at Google in summer 2017 and summer 2018, working in Ads teams.

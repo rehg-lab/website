@@ -2,10 +2,10 @@
 title: "Unsupervised 3D Pose Estimation With Geometric Self-Supervision"
 authors:
 - Ching-Hang Chen
-# - Ambrish Tyagi
-# - Amit Agrawal
-# - Dylan Drover
-# - [Stefan Stojanov](https://www.stefanstojanov.com)
+- Ambrish Tyagi
+- Amit Agrawal
+- Dylan Drover
+- [Stefan Stojanov](https://www.stefanstojanov.com)
 - admin
 date: "2017-06-15"
 doi: ""

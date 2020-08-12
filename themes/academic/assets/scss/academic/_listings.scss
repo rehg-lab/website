@@ -32,9 +32,19 @@
   margin-bottom: 2rem;
 }
 
+.media.stream-item-news {
+  margin-bottom: 1.0rem;
+}
+
 .media.stream-item .article-title,
 .card-simple .article-title {
   font-size: 1.2rem;
+  font-weight: 500;
+}
+
+.media.stream-item-news .article-title,
+.card-simple .article-title {
+  font-size: 1.0rem;
   font-weight: 500;
 }
 

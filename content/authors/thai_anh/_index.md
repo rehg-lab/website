@@ -50,7 +50,7 @@ external_link: https://anhthai1997.wordpress.com/
 user_groups:
 - Grad Students
 
-weight: 2
+weight: Thai
 ---
 # Short Bio
 My research interests lie broadly in the field of Computer Vision inspired by developmental psychology and cognitive science. I am currently working on continual learning, 3D shape reconstruction and social behavior understanding.

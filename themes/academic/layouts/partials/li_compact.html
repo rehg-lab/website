@@ -31,14 +31,14 @@
 {{ end }}
 
 <div class="media stream-item">
-  <div class="mr-3">
+  <div class="align-self-center mr-3">
        {{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
        {{ with $resource }}
        {{ $image := .Resize "150x" }}
-    <a href="{{$link}}" {{ $target | safeHTMLAttr }}>
-      <img src="{{ $image.RelPermalink }}" alt="{{ $item.Title }}">
-  </a>
-  {{end}}
+       <a href="{{$link}}" {{ $target | safeHTMLAttr }}>
+          <img src="{{ $image.RelPermalink }}" alt="{{ $item.Title }}">
+        </a>
+       {{end}}
   </div>
   
   <div class="media-body">

@@ -44,6 +44,7 @@ external_link: https://www.stefanstojanov.com
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Grad Students
+weight: 1
 ---
 
 # Short Bio

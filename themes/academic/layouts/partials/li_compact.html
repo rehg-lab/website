@@ -47,15 +47,9 @@
       <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
     </h3>
     
-    <!--
     {{ with $summary }}
-    <a href="{{ $item.RelPermalink }}" class="summary-link">
-      <div class="article-style">
         {{.}}
-      </div>
-    </a>
-    {{ end }}
-    -->
+    {{ end }
 
     <div class="stream-meta article-metadata">
 

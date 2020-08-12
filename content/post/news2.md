@@ -1,7 +1,6 @@
 ---
-title: "March 2016: 3 papers accepted to CVPR 2016"
-summary: "Papers accepted to CVPR 2016"
+title: "Month YYYY: 3 papers accepted to Venue YYYY"
 ---
-* Yin Li, Manohar Paluri, James M. Rehg, and Piotr Dollar, “Unsupervised Learning of Edges” Oral Presentation
-* Liwei Wang, Yin Li, and Svetlana Lazebnik, “Learning Deep Structure-Preserving Image-Text Embeddings”
-* Abhijit Kundu, Vibhav Vineet, and Vladlen Koltun, “Feature Space Optimization for Semantic Video Segmentation” Oral Presentation
+* Author 1, Author 2, Author 3, “Paper Title Paper Title” Oral Presentation
+* Author 4, Author 5, Author 6, “Paper Title Paper Title” Poster Presentation
+* Author 7, Author 8, Author 9, “Paper Title Paper Title” Spotlight Presentation

@@ -48,8 +48,12 @@
     </h3>
     
     {{ with $summary }}
+    <a href="{{ $item.RelPermalink }}" class="summary-link">
+      <div class="article-style">
         {{.}}
-    {{ end }
+      </div>
+    </a>
+    {{ end }}
 
     <div class="stream-meta article-metadata">
 

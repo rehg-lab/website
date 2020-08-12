@@ -15,7 +15,7 @@
   {{ end }}
 
   {{ with $page.Content }}
-  <div class="col-md-12">
+  <div class="order-md-12">
     {{ . }}
   </div>
   {{ end }}
@@ -24,7 +24,7 @@
   {{ $query := where (where site.Pages "Section" "authors") ".Params.user_groups" "intersect" (slice .) }}
 
   {{if $query}}
-  <div class="order-md-12">
+  <div class="col-md-12">
     <h2 class="mb-4">{{ . | markdownify }}</h2>
   </div>
   {{end}}

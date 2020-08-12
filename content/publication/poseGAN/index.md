@@ -27,7 +27,7 @@ abstract: We present an unsupervised learning approach to re-cover 3D human pose
 
 
 # Summary. An optional shortened abstract.
-summary: We present an unsupervised learning approach to re-cover 3D human pose from 2D skeletal joints extracted from a single image. Our method does not require any multi-view image data, 3D skeletons, correspondences between 2D-3D points, or use previously learned 3D priors during training.
+summary: CVPR 2019
 
 
 tags:

@@ -1,6 +1,6 @@
 {{ $page := . }}
-{{ $featured := (.Resources.ByType "image").GetMatch "*featured*" }}
-{{ $content_image := ($page.Resources.ByType "image").GetMatch "*content*"}}
+<!-- {{ $featured := (.Resources.ByType "image").GetMatch "*featured*" }} -->
+{{ $featured := ($page.Resources.ByType "image").GetMatch "*content*"}}
 
 {{ $anchor := $page.Params.image.focal_point | default "Smart" }}
 
@@ -33,7 +33,7 @@
 {{/* Featured image layout */}}
 {{ if and $featured (not .Params.image.preview_only) }}
 {{/* Fit image within max size. */}}
-{{ $image := $content_image }}
+{{ $image := $featured }}
 
 
 <!-- {{ if $content_image }}

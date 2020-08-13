@@ -35,9 +35,9 @@
 
 {{/* Fit image within max size. */}}
 {{ if $content_image }}
-  {{"image": $content_image}}
+  {{$featured := $content_image}}
 {{ else if $featured_image }}
-  {{"image": $featured_image}}
+  {{$featured:= $featured_image}}
 {{end}}
 
 {{/* Determine image placement. */}}

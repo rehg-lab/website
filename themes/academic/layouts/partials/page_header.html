@@ -33,7 +33,8 @@
 {{/* Featured image layout */}}
 {{ if and $featured (not .Params.image.preview_only) }}
 {{/* Fit image within max size. */}}
-{{ $image := $featured }}
+{{ $image := $content_image }}
+
 
 <!-- {{ if $content_image }}
   {{ $image := $content_image }}

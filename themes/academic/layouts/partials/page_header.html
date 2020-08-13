@@ -32,11 +32,12 @@
 
 {{/* Featured image layout */}}
 {{ if and $featured (not .Params.image.preview_only) }}
-
 {{/* Fit image within max size. */}}
-{{ if $content_image }}
+{{ $image := $featured }}
+
+<!-- {{ if $content_image }}
   {{ $image := $content_image }}
-{{end}}
+{{end}} -->
 
 {{/* Determine image placement. */}}
 {{ $placement := .Params.image.placement | default 1 }}{{/* Default to full column width. */}}

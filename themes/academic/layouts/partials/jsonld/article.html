@@ -1,6 +1,7 @@
 {{- $page := .page }}
 {{ $summary := .summary }}
 {{ $featured_image := ($page.Resources.ByType "image").GetMatch "*featured*" }}
+{{ $content_image := ($page.Resources.ByType "image").GetMatch "*content*"}}
 
 {{/* Get schema type. */}}
 {{ $schema := "Article" }}
@@ -21,7 +22,11 @@
     "@id": {{$page.Permalink}}
   },
   "headline": {{$page.Title}},
-  {{ if $featured_image }}
+  {{ if $content_image }}
+  "image": [
+    {{$content_image.Permalink}}
+  ],
+  {{ else if $featured_image }}
   "image": [
     {{$featured_image.Permalink}}
   ],

@@ -36,6 +36,10 @@
   margin-bottom: 1.0rem;
 }
 
+.media.stream-item-pub {
+  margin-bottom: 1.0rem;
+}
+
 .media.stream-item .article-title,
 .card-simple .article-title {
   font-size: 1.2rem;
@@ -48,6 +52,19 @@
   font-weight: 500;
 }
 
+.media.stream-item-pub .article-title,
+.card-simple .article-title {
+  font-size: 1.1rem;
+  font-weight: 500;
+  color: $sta-menu-primary;
+}
+
+.media.stream-item-pub .article-venue,
+.card-simple .article-title {
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: $sta-menu-primary;
+}
 .media.stream-item .article-style,
 .card-simple .article-style {
   margin-top: 2px;

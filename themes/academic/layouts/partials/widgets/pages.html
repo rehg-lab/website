@@ -85,6 +85,8 @@
         {{ partial "li_card" . }}
       {{ else if eq $st.Params.design.view 5 }}
         {{ partial "li_compact_news" . }}
+      {{ else if eq $st.Params.design.view 6 }}
+        {{ partial "li_compact_pub" . }}
       {{ else if eq $st.Params.design.view 4 | and (eq $items_type "publication") }}
         {{ partial "li_citation" . }}
       {{ else }}

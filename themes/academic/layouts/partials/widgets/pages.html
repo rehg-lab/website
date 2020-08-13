@@ -59,15 +59,6 @@
 
 {{/* Localisation */}}
 {{ $i18n := "" }}
-{{ if eq $items_type "post" }}
-  {{ $i18n = "more_posts" }}
-{{ else if eq $items_type "talk" }}
-  {{ $i18n = "more_talks" }}
-{{ else if eq $items_type "publication" }}
-  {{ $i18n = "more_publications" }}
-{{ else }}
-  {{ $i18n = "more_pages" }}
-{{ end }}
 
 <div class="row">
   <div class="col-12 col-lg-4 section-heading">

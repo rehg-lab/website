@@ -21,7 +21,7 @@ publication_types: ["1"]
 venue: "CVPR 2020"
 
 tags:
-- Tag 1
+- publication
 - Tag 2
 - Tag 3
 

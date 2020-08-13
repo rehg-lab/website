@@ -23,7 +23,7 @@ publication_types: ["1"]
 venue: "CoRL 2019"
 
 tags:
-- Tag 1
+- publication
 - Tag 2
 - Tag 3
 

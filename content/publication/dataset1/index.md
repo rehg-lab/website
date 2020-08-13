@@ -19,7 +19,7 @@ doi: ""
 publication_types: ["0"]
 
 # Venue
-venue: "CVPR 2020"
+# venue: "CVPR 2020"
 
 summary: "Summary Text for GTEA dataset"
 

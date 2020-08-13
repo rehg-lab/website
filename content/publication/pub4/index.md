@@ -22,7 +22,7 @@ publication_types: ["3"]
 venue: "arXiv preprint"
 
 tags:
-- Tag 1
+- publication
 - Tag 2
 - Tag 3
 

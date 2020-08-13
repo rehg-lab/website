@@ -1,6 +1,6 @@
 {{ $page := . }}
-<!-- {{ $featured := (.Resources.ByType "image").GetMatch "*featured*" }} -->
-{{ $featured := ($page.Resources.ByType "image").GetMatch "*content*"}}
+{{ $featured := (.Resources.ByType "image").GetMatch "*featured*" }}
+<!-- {{ $featured := ($page.Resources.ByType "image").GetMatch "*content*"}} -->
 
 {{ $anchor := $page.Params.image.focal_point | default "Smart" }}
 

@@ -1,5 +1,5 @@
 ---
-title: "Grant XYZ"
+title: "Grant 1"
 date: "2016-08"
 tags:
  - grant

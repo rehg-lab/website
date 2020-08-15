@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Rehg's Lab"
+title = "Introduction to the Rehg Lab"
 subtitle = ""
 
 [design]
@@ -49,4 +49,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-Introduction of Rehg's lab
+We conduct basic research in computer vision and machine learning, and work in a number of interdisciplinary areas: developmental and social psychology, autism research, mobile health, and robotics. The study of human social and cognitive behavior is a cross-cutting theme. We are developing novel methods for measuring behavior in real-life settings, and computational models that connect behaviors to health outcomes.

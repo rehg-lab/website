@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jim Rehg
+title: James M. Rehg
 
 # Username (this should match the folder name)
 authors:

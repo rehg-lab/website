@@ -51,6 +51,7 @@
     {{ $image = $featured.Resize "720x" }}
   {{ end }}
 {{end}}
+-->
 
 <div class="article-container pt-3">
   <h1>{{ $title }}</h1>
@@ -63,6 +64,7 @@
   {{ partial "page_links_div.html" $page }}
 </div>
 
+<!--
 {{/* Featured image */}}
 <div class="article-header {{$image_container}} featured-image-wrapper mt-4 mb-4" style="max-width: {{$image.Width}}px; max-height: {{$image.Height}}px;">
   <div style="position: relative">
@@ -72,7 +74,7 @@
 </div>
 {{else}}
   {{/* Case when page has no image */}}
-
+-->
   {{/* Wider container for nodes */}}
   {{ $ctnr := "article-container" }}
   {{ if $page.IsNode }}

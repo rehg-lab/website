@@ -1,6 +1,5 @@
 {{ $page := . }}
 {{ $featured := (.Resources.ByType "image").GetMatch "*featured*" }}
-<!-- {{ $featured := ($page.Resources.ByType "image").GetMatch "*content*"}} -->
 
 {{ $anchor := $page.Params.image.focal_point | default "Smart" }}
 
@@ -34,11 +33,6 @@
 {{ if and $featured (not .Params.image.preview_only) }}
 {{/* Fit image within max size. */}}
 {{ $image := $featured }}
-
-
-<!-- {{ if $content_image }}
-  {{ $image := $content_image }}
-{{end}} -->
 
 {{/* Determine image placement. */}}
 {{ $placement := .Params.image.placement | default 1 }}{{/* Default to full column width. */}}

@@ -1,9 +1,9 @@
 {{ $item := .item }}
 {{ $widget := .widget }}
 
-{{ $do_link := true }}
+{{ $do_link := false }}
 {{ if $item.Params.external_link | or $item.Content }}
-  {{ $do_link = true }}
+  {{ $do_link = false }}
 {{ else }}
   {{ $do_link = false }}
 {{ end }}

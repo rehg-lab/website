@@ -10,6 +10,7 @@
   {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
 {{ else if $item.Params.internal_link }}
   {{ $link = $item.RelPermalink }}
+  {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
 {{ end }}
 {{ if eq $item.Type "talk" }}
   {{ $show_authors_only = true }}

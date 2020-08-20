@@ -1,7 +1,7 @@
 ---
 title: "Month YYYY: Something interesting happened in lab"
 date: "2016-08"
-internal_link: ""
+internal_link: https://www.google.com/
 tags:
  - news
 ---

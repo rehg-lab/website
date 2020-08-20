@@ -19,15 +19,19 @@
 <div class="btn-links mb-3">
   {{ with .Params.external_link }}
   <a class="btn btn-outline-primary my-1" href="{{ . }}" target="_blank" rel="noopener">{{ i18n "open_project_site" }}</a>
-{{ else if .Params.internal_link}}
+  {{ end }}
+  {{ partial "page_links" (dict "page" $page "is_list" 0) }}
+</div>
+{{ else if .Params.internal_link }}
 <div class="btn-links mb-3">
   {{ with .RelPermalink }}
   <a class="btn btn-outline-primary my-1" href="{{ . }}" target="_blank" rel="noopener">{{ i18n "open_project_site" }}</a>
+  {{ end }}
+  {{ partial "page_links" (dict "page" $page "is_list" 0) }}
+</div>
 {{ else }}
 <div class="btn-links mb-3">
-  {{ with .RelPermalink }}
   {{ i18n "open_project_site" }}
-  {{ end }}
   {{ partial "page_links" (dict "page" $page "is_list" 0) }}
 </div>
 {{ end }}

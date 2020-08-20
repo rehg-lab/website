@@ -3,6 +3,7 @@
 {{/* Dynamic view adjusts to content type. */}}
 {{ $show_authors_only := false }}{{/* Show authors only or full metadata? */}}
 {{ $show_buttons := false }}
+{{ $link := ""}}
 {{ $target := "" }}
 {{ if $item.Params.external_link }}
   {{ $link = $item.Params.external_link }}
@@ -31,6 +32,16 @@
 {{ else if $item.Summary }}
   {{ $summary = $item.Summary }}
 {{ end }}
+{{if eq $link ""}}
+<div class="media stream-item-news">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a>{{ $item.Title }}</a>
+    </h3>
+  </div>
+</div>
+{{else}}
 <div class="media stream-item-news">
   <div class="media-body">
 
@@ -39,3 +50,4 @@
     </h3>
   </div>
 </div>
+{{end}}

@@ -1,5 +1,5 @@
 ---
-title: "Month YYYY: Something interesting happened in lab"
+title: "Internal link news"
 date: "2016-08"
 internal_link: true
 tags:

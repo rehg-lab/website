@@ -1,5 +1,5 @@
 ---
-title: "Month YYYY: Something interesting happened in lab"
+title: "External link news"
 date: "2016-08"
 external_link: https://www.google.com/
 tags:

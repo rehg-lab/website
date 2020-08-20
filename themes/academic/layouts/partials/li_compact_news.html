@@ -9,7 +9,7 @@
   {{ $link = $item.Params.external_link }}
   {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
 {{ else if $item.Params.internal_link }}
-  {{ $link := $item.RelPermalink }}
+  {{ $link = $item.RelPermalink }}
 {{ end }}
 {{ if eq $item.Type "talk" }}
   {{ $show_authors_only = true }}

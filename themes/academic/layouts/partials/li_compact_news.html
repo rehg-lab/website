@@ -3,11 +3,13 @@
 {{/* Dynamic view adjusts to content type. */}}
 {{ $show_authors_only := false }}{{/* Show authors only or full metadata? */}}
 {{ $show_buttons := false }}
-{{ $link := $item.RelPermalink }}
+{{ $link := "" }}
 {{ $target := "" }}
 {{ if $item.Params.external_link }}
   {{ $link = $item.Params.external_link }}
   {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+{{ else if $item.Params.internal_link }}
+  {{ $link := $item.RelPermalink }}
 {{ end }}
 {{ if eq $item.Type "talk" }}
   {{ $show_authors_only = true }}

@@ -28,7 +28,7 @@
 
 {{ $theme := index site.Data.themes $theme_index }}
 
-{{- $scr.Set "light" ($theme.light | default true) -}}
+{{- $scr.Set "dark" ($theme.light | default false) -}}
 
 {{ if $theme.light }}
   {{- $scr.Set "background" ($theme.background | default "#fff") -}}

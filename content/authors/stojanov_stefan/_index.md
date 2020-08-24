@@ -46,11 +46,3 @@ user_groups:
 - Grad Students
 weight: 19
 ---
-
-# Short Bio
-I have a general research interest in computer vision, specifically in incremental learning and 3D shape reconstruction and categorization. I am also interested in studying machine perception from a developmental learning perspective.
-
-During my bachelor's I did Summer research projects with [Michael Lawrence](https://personal.broadinstitute.org/lawrence/) at the [Broad Institute](https://www.broadinstitute.org/) and with [Sven Anderson](https://www.bard.edu/academics/faculty/details/?id=45) at [BSRI](http://www.bard.edu/academics/additional/details/?id=9540623) (Bard Summer
-search Institute).
-
-[Link to my website](https://www.stefanstojanov.com)

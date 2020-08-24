@@ -52,9 +52,3 @@ user_groups:
 
 weight: 20
 ---
-# Short Bio
-My research interests lie broadly in the field of Computer Vision inspired by developmental psychology and cognitive science. I am currently working on continual learning, 3D shape reconstruction and social behavior understanding.
-
-Prior to PhD, I graduated with a B.S. in Computer Science from Georgia Tech. During my undergrad, I was a Software Engineering Intern at Google in summer 2017 and summer 2018, working in Ads teams.
-
-[Link to my website](https://anhthai1997.wordpress.com/)

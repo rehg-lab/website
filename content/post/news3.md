@@ -1,8 +1,9 @@
 ---
-title: "7/20/20: NIH Funded $5.9M mDOT Center to Advance Mobile Health Research"
+title: "7/02/20: 1 paper accepted at ECCV 2020 for oral presentation"
 date: "2020-07"
+external_link: https://aptx4869lm.github.io/ForecastingHOI/
 tags:
  - news
 ---
-Some info about the mDOT Center
+
 

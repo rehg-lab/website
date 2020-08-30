@@ -1,7 +1,7 @@
 ---
-title: "External link news"
+title: "NIH Funded $5.9M mDOT Center to Advance Mobile Health Research"
 date: "2016-08"
-external_link: https://www.google.com/
+external_link: https://ic.gatech.edu/news/637122/georgia-tech-6-collaborators-receive-59-million-nih-grant-national-center-ai-based
 tags:
  - news
 ---

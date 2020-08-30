@@ -1,7 +1,11 @@
 ---
-title: "Month YYYY: Something interesting happened in lab"
-date: "2016-08"
+title: "8/05/20: Two papers accepted to BMVC 2020"
+date: "2020-08-05"
+internal_link: true
 tags:
  - news
 ---
-Vestibulum vitae rutrum elit, eget volutpat ex. Donec est mauris, posuere sed feugiat vel, bibendum vel nunc. Nam maximus sit amet diam nec dapibus. Nullam nec erat vel nisi accumsan sagittis. Etiam vestibulum ligula ut quam luctus varius. Vivamus maximus, quam ac finibus condimentum, nisl neque fermentum nulla, luctus finibus ligula metus et nulla. Praesent nunc justo, placerat quis velit vitae, scelerisque finibus turpis. Sed commodo quam sit amet diam volutpat egestas. Ut ultricies erat quis felis viverra aliquet. Integer nec metus volutpat, iaculis ligula a, interdum leo. Donec nunc massa, luctus at eleifend sit amet, lacinia id tellus. Nullam at lobortis libero. Quisque interdum fermentum faucibus. Morbi quis turpis libero. Vestibulum molestie tortor elit, eget pulvinar sem fringilla vitae. 
+Two papers were accepted for publication at the *31st British Machine Vision Conference* ([BMVC 2020](https://bmvc2020.github.io/):
+* **(oral)** M. Liu, X. Chen, Y. Zhang, Y. Li, & J. M. Rehg. Attention Distillation for Learning Video Representations ([Project Page](https://aptx4869lm.github.io/AttentionDistillation/))
+* **(poster)** M. Hahn, A. Kadav, J. M. Rehg, & H. P. Graf. Tripping Through Time: Efficient Localization of Activities in Videos
+

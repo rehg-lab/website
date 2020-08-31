@@ -1,7 +1,13 @@
 ---
-title: "Month YYYY: Something interesting happened in lab"
-date: "2016-08"
+title: "2/26/19: Four papers accepted at CVPR 2019"
+date: "2019-02-26"
+internal_link: true
 tags:
  - news
 ---
-Vestibulum vitae rutrum elit, eget volutpat ex. Donec est mauris, posuere sed feugiat vel, bibendum vel nunc. Nam maximus sit amet diam nec dapibus. Nullam nec erat vel nisi accumsan sagittis. Etiam vestibulum ligula ut quam luctus varius. Vivamus maximus, quam ac finibus condimentum, nisl neque fermentum nulla, luctus finibus ligula metus et nulla. Praesent nunc justo, placerat quis velit vitae, scelerisque finibus turpis. Sed commodo quam sit amet diam volutpat egestas. Ut ultricies erat quis felis viverra aliquet. Integer nec metus volutpat, iaculis ligula a, interdum leo. Donec nunc massa, luctus at eleifend sit amet, lacinia id tellus. Nullam at lobortis libero. Quisque interdum fermentum faucibus. Morbi quis turpis libero. Vestibulum molestie tortor elit, eget pulvinar sem fringilla vitae. 
+Four papers accepted for publication at the *IEEE Conference on Computer Vision and Pattern Recognition* ([CVPR 2019](https://cvpr2019.thecvf.com/)):
+* **(oral, best paper finalist)** S. Stojanov, S. Mishra, N. A. Thai, N. Dhanda, A. Humayun, C. Yu, L. B. Smith, and J. M. Rehg. Incremental Object Learning from Contiguous Views ([Project Page](https://iolfcv.github.io/))
+* **(oral, best paper finalist)** Z. Lv, F. Dellaert, J. M. Rehg, and A. Geiger. Taking a Deeper Look at the Inverse Compositional Algorithm ([Project Page](https://github.com/lvzhaoyang/DeeperInverseCompositionalAlgorithm))
+* **(poster)** S. Tripathi, S. Chandra, A. Agrawal, A. Tyagi, J. M. Rehg, and V. Chari. Learning to Generate Synthetic Data via Compositing.
+* **(poster)** C.-H. Chen, A. Tyagi, A. Agrawal, D. Drover, R. MV, S. Stojanov, and J. M. Rehg. Unsupervised 3D Pose Estimation with Geometric Self-Supervision.
+

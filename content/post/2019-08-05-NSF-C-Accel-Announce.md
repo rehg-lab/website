@@ -5,4 +5,4 @@ external_link: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1936970
 tags:
  - news
 ---
-Some details here
+Georgia Tech is partnering with Vanderbilt University and Cornell in developing training and assessment tools to support neurodiverse individuals in obtaining employment. Projects include VR-based interview training, assessment of job skills, and assessment of nonverbal communication skills in interview settings.

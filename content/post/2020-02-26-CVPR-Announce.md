@@ -6,5 +6,5 @@ tags:
  - news
 ---
 Two papers accepted for publication at the *IEEE Conference on Computer Vision and Pattern Recognition* ([CVPR 20](http://cvpr2020.thecvf.com/)):
-* **(poster)** E. Chong, Y. Wang, N. Ruiz, and J. M. Rehg. Detecting Attended Visual Targets in Video ([Project Page](https://github.com/ejcgt/attention-target-detection)
+* **(poster)** E. Chong, Y. Wang, N. Ruiz, and J. M. Rehg. Detecting Attended Visual Targets in Video ([Project Page](https://github.com/ejcgt/attention-target-detection))
 * **(poster)** R. Lin, W. Liu, Z. Liu, C. Feng, Z. Yu, J. M. Rehg, L. Xiong, and L. Song. Regularizing Neural Networks via Minimizing Hyperspherical Energy 

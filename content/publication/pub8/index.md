@@ -1,12 +1,10 @@
 ---
-title: "Attention Distillation for Learning Video Representations"
+title: "In the Eye of Beholder: Joint Learning of Gaze and Actions in First Person Video"
 authors:
-- Miao Liu
-- Xin Chen
-- Yun Zhang
 - Yin Li
+- Miao Liu
 - James M. Rehg
-date: "2020-08-25"
+date: "2018-08-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +17,7 @@ doi: ""
 publication_types: ["1"]
 
 # Venue
-venue: "BMVC 2020 (oral, acceptation rate 5.0%)"
+venue: "ECCV 2018"
 
 tags:
 - publication
@@ -29,11 +27,11 @@ tags:
 links:
 # - name: Custom Link
 # url: http://example.org
-url_pdf: https://arxiv.org/pdf/1904.03249.pdf
+url_pdf: https://openaccess.thecvf.com/content_ECCV_2018/papers/Yin_Li_In_the_Eye_ECCV_2018_paper.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
-url_project: https://aptx4869lm.github.io/AttentionDistillation/
+# url_project: https://aptx4869lm.github.io/AttentionDistillation/
 # url_slides: ''
 # url_source: '#'
 # url_video: '#'

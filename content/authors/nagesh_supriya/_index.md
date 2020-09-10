@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Electrical and Computer Engineering
 
 # Organizations/Affiliations
 organizations:

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: ML PhD
+role: Machine Learning PhD
 
 # Organizations/Affiliations
 organizations:

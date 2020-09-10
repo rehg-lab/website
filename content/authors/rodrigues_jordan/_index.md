@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Computer Science BS
+role: CS BS
 
 # Organizations/Affiliations
 organizations:

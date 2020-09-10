@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Electrical and Computer Engineering
+role: Electrical and Computer Engineering PhD
 
 # Organizations/Affiliations
 organizations:

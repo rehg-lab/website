@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergrad Student
+role: Computer Science BS
 
 # Organizations/Affiliations
 organizations:

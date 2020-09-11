@@ -527,8 +527,8 @@ ul.ul-edu li .description p.institution {
 }
 
 .people-widget .avatar {
-  width: 500%;
-  max-width: 400px;
+  width: 80%;
+  max-width: 150px;
   height: auto;
 }
 
@@ -539,7 +539,7 @@ ul.ul-edu li .description p.institution {
 }
 @media (min-width: 992px) {
   .people-widget .col-sm-auto {
-    width: 20%;
+    width: 200%;
   }
 }
 

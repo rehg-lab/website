@@ -528,13 +528,13 @@ ul.ul-edu li .description p.institution {
 
 .people-widget .avatar {
   width: 80%;
-  max-width: 150px;
+  max-width: 400px;
   height: auto;
 }
 
 @media (min-width: 576px) {
   .people-widget .col-sm-auto {
-    width: 50%;
+    width: 30%;
   }
 }
 @media (min-width: 992px) {

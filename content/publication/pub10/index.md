@@ -1,7 +1,7 @@
 ---
 title: "Watching the TV Watchers"
 authors:
-- Yun C. Zhang*
+- Yun C. Zhang
 - James M. Rehg
 date: "2018-07"
 doi: "10.1145/3214291"

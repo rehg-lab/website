@@ -33,7 +33,7 @@ url_pdf: https://drive.google.com/file/d/1gkljhjjJCWxOSD6sJOmRoJdfO_wrN22m/view?
 # url_project: https://yunzhang07.github.io/SyncWISE/
 # url_slides: ''
 # url_source: '#'
-# url_video: '#'
+url_video: https://youtu.be/1VopVrLYCf0
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

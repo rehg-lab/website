@@ -1,17 +1,10 @@
 ---
-title: "SyncWISE: Window Induced Shift Estimation for Synchronization of Video and Accelerometry from Wearable Sensors"
+title: "Watching the TV Watchers"
 authors:
 - Yun C. Zhang*
-- Shibo Zhang*
-- Miao Liu
-- Elyse Daly
-- Samuel Battalio
-- Santosh Kumar
-- Bonnie Spring
 - James M. Rehg
-- Nabil Alshurafa
-date: "2020-09"
-doi: "10.1145/3411824"
+date: "2018-07"
+doi: "10.1145/3214291"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -20,10 +13,10 @@ doi: "10.1145/3411824"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Venue
-venue: "IMWUT 2020"
+venue: "IMWUT 2018"
 
 tags:
 - publication
@@ -33,11 +26,11 @@ tags:
 links:
 # - name: Custom Link
 # url: http://example.org
-url_pdf: https://drive.google.com/file/d/1jZl6hark38PxK37jiJv0F5l06IxZTNn5/view?usp=sharing
-url_code: https://github.com/HAbitsLab/SyncWISE/
+url_pdf: https://drive.google.com/file/d/1gkljhjjJCWxOSD6sJOmRoJdfO_wrN22m/view?usp=sharing
+# url_code: https://github.com/HAbitsLab/SyncWISE/
 # url_dataset: '#'
 # url_poster: '#'
-url_project: https://yunzhang07.github.io/SyncWISE/
+# url_project: https://yunzhang07.github.io/SyncWISE/
 # url_slides: ''
 # url_source: '#'
 # url_video: '#'

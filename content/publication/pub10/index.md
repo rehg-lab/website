@@ -37,7 +37,7 @@ url_pdf: https://drive.google.com/file/d/1jZl6hark38PxK37jiJv0F5l06IxZTNn5/view?
 url_code: https://github.com/HAbitsLab/SyncWISE/
 # url_dataset: '#'
 # url_poster: '#'
-url_project: https://rehg-lab.github.io/publication-pages/SyncWISE/
+url_project: https://yunzhang07.github.io/SyncWISE/
 # url_slides: ''
 # url_source: '#'
 # url_video: '#'

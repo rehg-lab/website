@@ -23,7 +23,7 @@ doi: "10. 1145/3411824"
 publication_types: ["3"]
 
 # Venue
-venue: "Proc. ACM Interact. Mob. Wearable Ubiquitous Technol"
+venue: "IMWUT 2020"
 
 tags:
 - publication

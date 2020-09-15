@@ -11,7 +11,7 @@ authors:
 - James M. Rehg
 - Nabil Alshurafa
 date: "2020-09"
-doi: "10. 1145/3411824"
+doi: "10.1145/3411824"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -34,10 +34,10 @@ links:
 # - name: Custom Link
 # url: http://example.org
 url_pdf: https://drive.google.com/file/d/1jZl6hark38PxK37jiJv0F5l06IxZTNn5/view?usp=sharing
-url_code: https://yunzhang07.github.io/SyncWISE/
+url_code: https://github.com/HAbitsLab/SyncWISE/
 # url_dataset: '#'
 # url_poster: '#'
-url_project: https://devlearning-gt.github.io/3DShapeGen/
+url_project: https://yunzhang07.github.io/SyncWISE/
 # url_slides: ''
 # url_source: '#'
 # url_video: '#'

@@ -34,10 +34,10 @@
   "datePublished": {{ $page.PublishDate.Format "2006-01-02T15:04:05Z07:00" }},
   "dateModified": {{ $page.Lastmod.Format "2006-01-02T15:04:05Z07:00" }},
   {{with $author}}
-  "author": {
+<!--   "author": {
     "@type": "Person",
     "name": {{.}}
-  },
+  }, -->
   {{end}}
   "publisher": {
     "@type": "Organization",

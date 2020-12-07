@@ -50,3 +50,5 @@ subtitle = ""
  css_class = ""
 +++
 We conduct basic research in computer vision and machine learning, and work in a number of interdisciplinary areas: developmental and social psychology, autism research, mobile health, and robotics. The study of human social and cognitive behavior is a cross-cutting theme. We are developing novel methods for measuring behavior in real-life settings, and computational models that connect health-related behaviors to health outcomes in order to enable novel forms of treatment. We are creating machine learning methods that are inspired by child development and investigating biologically-inspired approaches to robot navigation and control.
+
+![labphoto](content/labphoto/labphoto_updated_boundingbox_labeled.png)

@@ -28,7 +28,7 @@ tags:
 links:
 # - name: Custom Link
 url_pdf: https://www.bmvc2020-conference.com/assets/papers/0549.pdf
-# url_video: https://youtu.be/RtIq_YXpiXY
+url_video: https://youtu.be/RtIq_YXpiXY
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

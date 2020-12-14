@@ -30,7 +30,7 @@ tags:
 
 links:
 # - name: Custom Link
-url: https://meerahahn.github.io/way/
+url: http://meerahahn.github.io/way/
 url_pdf: https://www.aclweb.org/anthology/2020.emnlp-main.59.pdf
 url_video: https://youtu.be/RtIq_YXpiXY
 url_code: 'https://github.com/batra-mlp-lab/WAY/'

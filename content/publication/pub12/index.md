@@ -1,5 +1,5 @@
 ---
-title: "In the Eye of Beholder: Joint Learning of Gaze and Actions in First Person Video"
+title: "Tripping through time: Efficient Localization of Activities in Videos"
 authors:
 - Meera Hahn 
 - Asim Kadav

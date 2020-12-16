@@ -40,7 +40,7 @@ external_link: https://www.jordanrodrigues.com
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergrad Students
+- Undergraduate Students
 
 weight: 19.5
 ---

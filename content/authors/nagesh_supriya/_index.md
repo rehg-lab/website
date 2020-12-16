@@ -43,6 +43,6 @@ external_link: https://supriyanagesh94.github.io/
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Graduate Students
 weight: 14
 ---

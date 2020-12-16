@@ -40,7 +40,7 @@ external_link: https://www.linkedin.com/in/julian-g3806/
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergrad Students
+- Undergraduate Students
 
 weight: 7
 ---

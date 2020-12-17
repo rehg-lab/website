@@ -2,8 +2,8 @@
 title: "Incremental Object Learning from Contiguous Views"
 authors:
 - Stefan Stojanov
-- Samarth Mishra\*
-- Anh Thai\*
+- Samarth Mishra*
+- Anh Thai*
 - Nikhil Dhanda
 - Ahmad Humayun
 - Chen Yu

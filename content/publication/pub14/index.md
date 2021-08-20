@@ -1,11 +1,17 @@
 ---
-title: "In the Eye of the Beholder: Gaze and Actions in First Person Video"
+title: "Classification of Decompensated Heart Failure from Clinical and Home Ballistocardiography"
 authors:
-- Yin Li
-- Miao Liu
+- Varol Burak Aydemir
+- Supriya Nagesh
+- Md Mobashir Hasan Shandhi
+- Joanna Fan
+- Liviu Klein
+- Mozziyar Etemadi
+- James Alex Heller
+- Omer T. Inan
 - James M. Rehg
-date: "2021-01-01"
-doi: ""
+date: "2019-08-15"
+doi: "10.1109/TBME.2019.2935619"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -17,7 +23,7 @@ doi: ""
 publication_types: ["2"]
 
 # Venue
-venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+venue: "IEEE Transactions on Biomedical Engineering"
 
 tags:
 - publication
@@ -27,12 +33,12 @@ tags:
 links:
 # - name: Custom Link
 # url: http://example.org
-url_pdf: https://arxiv.org/pdf/2006.00626.pdf
-# url_code: '#'
+url_pdf: https://www.dropbox.com/s/l3gh7fwr5g2wmd4/Article_IEEE_Version_Varol_Burak_Aydemir.pdf?dl=0
+# url_code: https://github.com/devlearning-gt/3DShapeGen
 # url_dataset: '#'
 # url_poster: '#'
-# url_project: '#'
-# url_slides: '#'
+# url_project: https://devlearning-gt.github.io/3DShapeGen/
+# url_slides: ''
 # url_source: '#'
 # url_video: '#'
 

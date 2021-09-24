@@ -1,5 +1,5 @@
 ---
-title: "In the Eye of Beholder: Joint Learning of Gaze and Actions in First Person Video"
+title: "Where Are You? Localization from Embodied Dialog"
 authors:
 - Meera Hahn 
 - Jacob Krantz 

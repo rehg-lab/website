@@ -5,7 +5,8 @@ internal_link: true
 tags:
  - Courses
 ---
-
+<div id="course_syllabus" style="margin-bottom: 10px;" class="user_content">
+  <p><span style="font-size: 24pt;">Introduction to Behavioral Imaging</span></p>
 <p><span style="font-size: 18pt;">CS 7626 and CS 4803-IBI combined sections</span></p>
 <p><span style="font-size: 24pt;">Covid Information</span></p>
 <p><span style="font-size: 12pt;">The most up-to-date information on Covid-19 is on the&nbsp;<a class="external" href="https://health.gatech.edu/coronavirus" target="_blank">TECH Moving Forward<span class="screenreader-only">&nbsp;(Links to an external site.)</span></a>&nbsp;website and in the&nbsp;<a class="external" href="https://provost.gatech.edu/academic-restart-frequently-asked-questions" target="_blank">Academic Restart Frequently Asked Questions<span class="screenreader-only">&nbsp;(Links to an external site.)</span></a>.&nbsp; If you have not tested positive but are ill or have been exposed to someone who is ill, please follow the&nbsp;<a class="external" href="http://health.gatech.edu/coronavirus/decision-tree" target="_blank">Covid-19 Exposure Decision Tree<span class="screenreader-only">&nbsp;(Links to an external site.)</span></a>&nbsp;for reporting your illness.</span></p>
@@ -62,37 +63,7 @@ tags:
 <li>2 In-Class Presentations: 70% (35% x 2)<strong></strong></li>
 <li>3 Quizzes: 30%</li>
 </ul>
-<p><span style="text-decoration: underline;"><span style="font-size: 12pt;">Quiz Details</span></span></p>
-<ul>
-<li>Quiz 1 - Released Fri Mar 12 @10am, Due Sun Mar 14&nbsp; @10am
-<ul>
-<li><a class="inline_disabled" href="https://docs.google.com/document/d/1YObVFYvO9UlXIm9pbKhEUyeLXunV7YsbsG_cbN-_QOo/edit" target="_blank">Quiz 1 Notes</a> (contains examples)</li>
-</ul>
-</li>
-<li>Quiz 2 - Released Fri Apr 2 @10am, Due Tues Apr 6 @10am
-<ul>
-<li aria-level="2"><span>Covers Lectures 13-23</span>
-<ul>
-<li aria-level="2"><span>Intro to neuroscience</span></li>
-<li aria-level="2"><span>Intro to autism</span></li>
-<li aria-level="2"><span>Modeling speech production and recognition</span></li>
-<li aria-level="2"><span>Note: Slides 15-19 in Lecture 23 will not be on the quiz</span></li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Quiz 3 - Released Fri Apr 16 @10am, Due Tues Apr 20 @10am</li>
-</ul>
 <p>The quizzes will be take home, and you can work on them at any time and take as long as want to complete them, as long as you submit your answers by the deadlines listed. However you may only submit your answers once. We will not have class the day the quiz is released so that you can use the class period to take the quiz if you'd prefer. The quiz must be your own work, you are not allowed to collaborate on the quiz or discuss it with anyone.</p>
-<p>In-Class Presentations</p>
-<ul>
-<li>Session 1 - April 21, 23, 26 (last 3 days of regular class)
-<ul>
-<li><a class="inline_disabled" href="https://docs.google.com/spreadsheets/d/1CmkS5QRpQxjOArpEvKSDKAO-mFfv4jDZvOB900bN0qk/edit?usp=sharing" target="_blank">Sign-up Sheet</a> for Session 1 presentation slots</li>
-</ul>
-</li>
-<li>Session 2 - May 5&nbsp; 2:40-5:30 (Final Exam Period)</li>
-</ul>
 <p>Attendance will not be recorded and will not be used in assessing grades.</p>
 <p>Final Project: This was eliminated from the syllabus due to the difficulty of making individualized projects work under the current remote/covid conditions.</p>
 <h2>Legalese</h2>

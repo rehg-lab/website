@@ -5,14 +5,14 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 68  # Order that this section will appear.
+weight = 69  # Order that this section will appear.
 
-title = "Datasets"
+title = "Courses"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "publication"
+  page_type = "post"
 
   # Choose how much pages you would like to display (0 = all pages)
   count = 15
@@ -25,7 +25,7 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "datasets"
+    tag = "Courses"
     category = ""
     publication_type = ""
     author = ""
@@ -38,7 +38,7 @@ subtitle = ""
   #   3 = Card
   #   4 = Citation (publication only)
   #   6 = custom publication style
-  view = 6
+  view = 5
 
 [design.background]
   # Apply a background color, gradient, or image.

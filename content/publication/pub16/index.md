@@ -23,7 +23,7 @@ doi: "N/A"
 publication_types: ["2"]
 
 # Venue
-venue: "INSAR Oral + Press Conference (< 0.01% acceptance rate)"
+venue: "INSAR 2022 Oral + Press Conference (< 0.01% acceptance rate)"
 
 tags:
 - publication

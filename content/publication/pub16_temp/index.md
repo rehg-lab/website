@@ -1,19 +1,17 @@
 ---
-title: "Efficient Learning and Decoding of the Continuous-Time Hidden Markov Model for Disease Progression Modeling"
+title: "Discovering Novel Predictors of Minimally Verbal Outcomes in Autism through Computational Modeling"
 authors:
-- Yu-Ying Liu
-- Alexander Moreno
-- Maxwell A. Xu
-- Shuang Li
-- Jena C. McDaniel
-- Nancy C. Brady
-- Agata Rozga
-- Fuxin Li
-- Le Song
+- Maxwell Xu
 - James M. Rehg
+- Agata Rozga
+- Jena McDaniel
+- Paul Yoder
+- Linda R. Watson
+- Nancy Brady
 
-date: "2021-10-26"
-doi: "10.48550/arXiv.2110.13998"
+
+date: "2022-05-11"
+doi: "N/A"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -25,7 +23,7 @@ doi: "10.48550/arXiv.2110.13998"
 publication_types: ["2"]
 
 # Venue
-venue: "arXiv preprint"
+venue: "INSAR Oral + Press Conference (< 0.01% acceptance rate)"
 
 tags:
 - publication
@@ -35,7 +33,7 @@ tags:
 links:
 # - name: Custom Link
 # url: http://example.org
-url_pdf: https://arxiv.org/abs/2110.13998
+url_pdf: https://www.autism-insar.org/page/2022AnnMtg
 # url_code: https://github.com/devlearning-gt/3DShapeGen
 # url_dataset: '#'
 # url_poster: '#'

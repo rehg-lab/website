@@ -1,5 +1,5 @@
 ---
-title: "Classification of Decompensated Heart Failure from Clinical and Home Ballistocardiography"
+title: "Efficient Learning and Decoding of the Continuous-Time Hidden Markov Model for Disease Progression Modeling"
 authors:
 - Yu-Ying Liu
 - Alexander Moreno

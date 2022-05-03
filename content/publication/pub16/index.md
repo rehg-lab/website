@@ -1,5 +1,5 @@
 ---
-title: "Efficient Learning and Decoding of the Continuous-Time Hidden Markov Model for Disease Progression Modeling"
+title: "Discovering Novel Predictors of Minimally Verbal Outcomes in Autism through Computational Modeling"
 authors:
 - Maxwell Xu
 - James M. Rehg

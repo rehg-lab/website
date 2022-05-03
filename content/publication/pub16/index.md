@@ -1,16 +1,13 @@
 ---
 title: "Efficient Learning and Decoding of the Continuous-Time Hidden Markov Model for Disease Progression Modeling"
 authors:
-- Yu-Ying Liu
-- Alexander Moreno
-- Maxwell A. Xu
-- Shuang Li
-- Jena C. McDaniel
-- Nancy C. Brady
-- Agata Rozga
-- Fuxin Li
-- Le Song
+- Maxwell Xu
 - James M. Rehg
+- Agata Rozga
+- Jena McDaniel
+- Paul Yoder
+- Linda R. Watson
+- Nancy Brady
 
 date: "2021-10-26"
 doi: "10.48550/arXiv.2110.13998"

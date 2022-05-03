@@ -3,7 +3,7 @@ title: "CS 7626: Behavioral Imaging"
 date: "2021 - 11 - 07"
 internal_link: true
 tags:
- - Courses
+ - Teaching
 ---
 <div id="course_syllabus" style="margin-bottom: 10px;" class="user_content">
   <p><span style="font-size: 24pt;">Introduction to Behavioral Imaging</span></p>

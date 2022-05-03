@@ -33,7 +33,7 @@ tags:
 links:
 # - name: Custom Link
 # url: http://example.org
-# url_pdf: https://arxiv.org/abs/2110.13998
+url_pdf: https://www.autism-insar.org/page/2022AnnMtg
 # url_code: https://github.com/devlearning-gt/3DShapeGen
 # url_dataset: '#'
 # url_poster: '#'

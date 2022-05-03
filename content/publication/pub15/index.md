@@ -1,5 +1,5 @@
 ---
-title: "Discovering Novel Predictors of Minimally Verbal Outcomes in Autism through Computational Modeling"
+title: "Efficient Learning and Decoding of the Continuous-Time Hidden Markov Model for Disease Progression Modeling"
 authors:
 - Yu-Ying Liu
 - Alexander Moreno
@@ -13,7 +13,7 @@ authors:
 - James M. Rehg
 
 date: "2021-10-26"
-doi: "N/A"
+doi: "10.48550/arXiv.2110.13998"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -25,7 +25,7 @@ doi: "N/A"
 publication_types: ["2"]
 
 # Venue
-venue: "INSAR Oral + Press Conference (< 0.01% acceptance rate)"
+venue: "arXiv preprint"
 
 tags:
 - publication
@@ -35,7 +35,7 @@ tags:
 links:
 # - name: Custom Link
 # url: http://example.org
-# url_pdf: https://arxiv.org/abs/2110.13998
+url_pdf: https://arxiv.org/abs/2110.13998
 # url_code: https://github.com/devlearning-gt/3DShapeGen
 # url_dataset: '#'
 # url_poster: '#'

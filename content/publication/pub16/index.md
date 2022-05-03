@@ -9,8 +9,9 @@ authors:
 - Linda R. Watson
 - Nancy Brady
 
-date: "2022-05-11"
-doi: "10.48550/arXiv.2110.13998"
+
+date: "2022-05-01"
+doi: "N/A"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -22,7 +23,7 @@ doi: "10.48550/arXiv.2110.13998"
 publication_types: ["2"]
 
 # Venue
-venue: "arXiv preprint"
+venue: "INSAR Oral + Press Conference (< 0.01% acceptance rate)"
 
 tags:
 - publication
@@ -32,7 +33,7 @@ tags:
 links:
 # - name: Custom Link
 # url: http://example.org
-url_pdf: https://arxiv.org/abs/2110.13998
+url_pdf: https://www.autism-insar.org/page/2022AnnMtg
 # url_code: https://github.com/devlearning-gt/3DShapeGen
 # url_dataset: '#'
 # url_poster: '#'

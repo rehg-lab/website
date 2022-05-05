@@ -15,10 +15,10 @@ doi: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Venue
-venue: "arXiv preprint"
+venue: "3DV 2021"
 
 tags:
 - publication
@@ -28,7 +28,7 @@ tags:
 links:
 # - name: Custom Link
 # url: http://example.org
-url_pdf: https://arxiv.org/pdf/1409.0575.pdf 
+url_pdf: https://arxiv.org/pdf/2006.07752.pdf 
 url_code: https://github.com/devlearning-gt/3DShapeGen
 # url_dataset: '#'
 # url_poster: '#'

@@ -1,9 +1,14 @@
 ---
 title: "Where Are You? Localization from Embodied Dialog"
 authors:
-- Kristen Grauman et al.
-- (including lab members Miao Liu, Fiona Ryan, Wenqi Jia, Audrey Southerland, and James M. Rehg)
-date: "2021-10-13"
+- Meera Hahn 
+- Jacob Krantz 
+- Dhruv Batra
+- Devi Parikh
+- James M. Rehg
+- Stefan Lee
+- Peter Anderson
+date: "2020-11-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,17 +21,22 @@ doi: ""
 publication_types: ["1"]
 
 # Venue
-venue: "CVPR 2022 (oral)"
+venue: "EMNLP 2020"
 
 tags:
 - publication
+- Tag 2
+- Tag 3
 
 links:
 # - name: Custom Link
-# url: https://ego4d-data.org
-url_pdf: https://arxiv.org/pdf/2110.07058.pdf
-url_dataset: https://ego4d-data.org/docs/start-here/
+# url: http://meerahahn.github.io/way/
+url_pdf: https://www.aclweb.org/anthology/2020.emnlp-main.59.pdf
+url_video: https://youtu.be/RtIq_YXpiXY
+url_code: 'https://github.com/batra-mlp-lab/WAY/'
+url_dataset: https://meerahahn.github.io/way/data
 # url_poster: '#'
+url_project: https://aptx4869lm.github.io/AttentionDistillation/
 # url_slides: ''
 # url_source: '#'
 

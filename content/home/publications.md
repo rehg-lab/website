@@ -38,7 +38,7 @@ subtitle = ""
   #   3 = Card
   #   4 = Citation (publication only)
   #   6 = custom publication style
-  view = 5
+  view = 6
 
 [design.background]
   # Apply a background color, gradient, or image.

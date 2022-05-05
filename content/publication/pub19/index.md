@@ -28,10 +28,10 @@ links:
 # - name: Custom Link
 # url: http://example.org
 url_pdf: https://arxiv.org/abs/2101.07296
-# url_code: https://rehg-lab.github.io/publication-pages/lowshot-shapebias/
-# url_dataset: https://github.com/rehg-lab/lowshot-shapebias/tree/main/toys4k
+url_code: https://rehg-lab.github.io/publication-pages/lowshot-shapebias/
+url_dataset: https://github.com/rehg-lab/lowshot-shapebias/tree/main/toys4k
 # url_poster: '#'
-# url_project: https://rehg-lab.github.io/publication-pages/lowshot-shapebias/
+url_project: https://rehg-lab.github.io/publication-pages/lowshot-shapebias/
 # url_slides: ''
 # url_source: '#'
 # url_video: '#'

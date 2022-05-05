@@ -17,6 +17,10 @@ subtitle = ""
   # Choose how much pages you would like to display (0 = all pages)
   count = 15
 
+  # Show a "See all pages" link underneath the featured content?
+  link_to_archive = false
+
+
   # Choose how many pages you would like to offset by
   offset = 0
 

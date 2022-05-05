@@ -24,6 +24,7 @@ tags:
 links:
 # - name: Custom Link
 # url: https://ego4d-data.org
+url_project: https://ego4d-data.org
 url_pdf: https://arxiv.org/pdf/2110.07058.pdf
 url_dataset: https://ego4d-data.org/docs/start-here/
 # url_poster: '#'

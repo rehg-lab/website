@@ -23,8 +23,8 @@ subtitle = ""
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
 
-  # Show a "See all pages" link underneath the featured content?
-  link_to_archive = false
+  <!-- # Show a "See all pages" link underneath the featured content?
+  link_to_archive = false -->
 
   # Filter posts by a taxonomy term.
   [content.filters]
@@ -41,7 +41,7 @@ subtitle = ""
   #   3 = Card
   #   4 = Citation (publication only)
   #   6 = custom publication style
-  view = 6
+  view = 5
 
 [design.background]
   # Apply a background color, gradient, or image.

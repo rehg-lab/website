@@ -18,7 +18,7 @@ doi: ""
 publication_types: ["1"]
 
 # Venue
-venue: "3DV 2021"
+venue: "3DV 2021, Oral"
 
 tags:
 - publication

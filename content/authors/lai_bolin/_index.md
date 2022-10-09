@@ -46,7 +46,7 @@ education:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "bolin.lai@gatech.edu"
 
-external_link: https://www.linkedin.com/in/bolin-lai-625b78139/
+external_link: https://bolinlai.github.io/
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

@@ -27,8 +27,6 @@ venue: "INSAR 2022 Oral + Press Conference (< 1% acceptance rate)"
 
 tags:
 - publication
-- Tag 2
-- Tag 3
 
 links:
 # - name: Custom Link

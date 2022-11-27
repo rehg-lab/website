@@ -1,5 +1,6 @@
 ---
-title: "Discovering Novel Predictors of Minimally Verbal Outcomes in Autism through Computational Modeling"
+title: "PulseImpute: A Novel Benchmark Task for
+Pulsative Physiological Signal Imputation"
 authors:
 - Maxwell A. Xu
 - Alexander Moreno

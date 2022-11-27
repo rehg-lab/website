@@ -1,6 +1,5 @@
 ---
-title: "PulseImpute: A Novel Benchmark Task for
-Pulsative Physiological Signal Imputation"
+title: "PulseImpute: A Novel Benchmark Task for Pulsative Physiological Signal Imputation"
 authors:
 - Maxwell A. Xu
 - Alexander Moreno
@@ -11,8 +10,8 @@ authors:
 - James M. Rehg
 
 
-date: "2022-11-28"
-# doi: "N/A"
+date: "2022-11-27"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"

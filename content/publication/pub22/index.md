@@ -17,7 +17,7 @@ doi: ""
 publication_types: ["1"]
 
 # Venue
-venue: "arXiv preprint"
+venue: "ECCV 2022"
 
 tags:
 - publication
@@ -25,7 +25,7 @@ tags:
 links:
 # - name: Custom Link
 # url: https://ego4d-data.org
-# url_project: https://ego4d-data.org
+url_project: https://vjwq.github.io/EgoGAN
 url_pdf: https://arxiv.org/abs/2203.11305
 # url_dataset: https://ego4d-data.org/docs/start-here/
 # url_poster: '#'

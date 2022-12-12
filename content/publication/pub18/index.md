@@ -29,7 +29,7 @@ links:
 # - name: Custom Link
 # url: http://example.org
 url_pdf: https://arxiv.org/pdf/2101.07295.pdf
-# url_code: https://github.com/devlearning-gt/3DShapeGen
+url_code: https://github.com/rehg-lab/CLRec
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: https://devlearning-gt.github.io/3DShapeGen/

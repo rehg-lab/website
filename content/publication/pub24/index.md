@@ -33,11 +33,11 @@ tags:
 links:
 # - name: Custom Link
 # url: http://example.org
-url_pdf: https://openreview.net/pdf?id=x_kBZYiUrxR
-# url_code: https://github.com/devlearning-gt/3DShapeGen
+url_pdf: https://arxiv.org/pdf/2212.07514.pdf
+url_code: https://github.com/maxxu05/maxxu05.github.io
 # url_dataset: '#'
 # url_poster: '#'
-# url_project: https://devlearning-gt.github.io/3DShapeGen/
+url_project: https://maxxu05.github.io/projects/pulseimpute/pulseimpute.html
 # url_slides: ''
 # url_source: '#'
 # url_video: '#'

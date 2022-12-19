@@ -15,10 +15,10 @@ date: "2021-01-18"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Venue
-venue: "arXiv preprint"
+venue: "3DV 2022"
 
 tags:
 - publication
@@ -29,7 +29,7 @@ links:
 # - name: Custom Link
 # url: http://example.org
 url_pdf: https://arxiv.org/pdf/2101.07295.pdf
-# url_code: https://github.com/devlearning-gt/3DShapeGen
+url_code: https://github.com/rehg-lab/CLRec
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: https://devlearning-gt.github.io/3DShapeGen/

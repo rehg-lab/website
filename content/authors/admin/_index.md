@@ -14,7 +14,7 @@ role: Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Georgia Institute of Technology
+- name: University of Illinois Urbana-Champaign
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

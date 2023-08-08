@@ -46,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:rehg@gatech.edu  # For a direct email link, use "mailto:test@example.org"., or '#contact'
+  link: mailto:jrehg@uiuc.edu  # For a direct email link, use "mailto:test@example.org"., or '#contact'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/RehgJim

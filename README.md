@@ -1,3 +1,6 @@
+Documentation here: https://docs.hugoblox.com/
+Netlify hosting here: https://app.netlify.com/sites/jolly-knuth-f9de28/overview
+
 <p align="center"><a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener"><img src="https://sourcethemes.com/academic/img/logo_200px.png" alt="Academic logo"></a></p>
 
 # Academic Kickstart: The Template for [Academic Website Builder](https://sourcethemes.com/academic/)

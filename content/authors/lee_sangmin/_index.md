@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Xu Cao
+title: Sangmin Lee
 
 # Username (this should match the folder name)
 authors:
-- cao_xu
+- lee_sangmin
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: CS PhD
+role: Post Doc
 
 # Organizations/Affiliations
 organizations:
@@ -22,7 +22,7 @@ bio: ""
 
 education:
   courses:
-  - course: PhD in Computer Science
+  - course: Post Doc
     institution: University of Illinois Urbana-Champaign
     year: 2023-present
 
@@ -38,14 +38,14 @@ education:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "xucao2@illinois.edu"
+email: "sangminl@illinois.edu"
 
-external_link: https://scholar.google.com/citations?user=oXWRBrwAAAAJ&hl=zh-CN
+external_link: https://sites.google.com/view/sangmin-lee
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Post Doc Researcher
 
 weight: 22
 ---

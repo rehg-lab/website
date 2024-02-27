@@ -45,7 +45,7 @@ external_link: https://sites.google.com/view/sangmin-lee
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Post Doc Researcher
+- Post Doc Researchers
 
 weight: 22
 ---

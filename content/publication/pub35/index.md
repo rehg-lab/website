@@ -27,8 +27,8 @@ tags:
 
 links:
 # - name: Custom Link
-# url_project: https://fkryan.github.io/saal
-# url_pdf: https://arxiv.org/pdf/2303.16024.pdf
+url_project: https://zixuanh.com/projects/shapeclipper.html
+url_pdf: https://arxiv.org/pdf/2304.06247.pdf
 # url_poster: 
 # url_dataset: 
 # url_poster: '#'

@@ -1,12 +1,12 @@
 ---
-title: "Egocentric Auditory Attention Localization in Conversations"
+title: "REBAR: Retrieval-Based Reconstruction For Time-series Contrastive Learning"
 authors:
-- Fiona Ryan
-- Hao Jiang
-- Abhinav Shukla
+- Maxwell A. Xu
+- Alexander Moreno
+- Hui Wei
+- Benjamin M. Marlin
 - James M. Rehg
-- Vamsi Krishna Ithapu
-date: "2023-03-28"
+date: "2024-01-14"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,15 +19,15 @@ doi: ""
 publication_types: ["1"]
 
 # Venue
-venue: "CVPR 2023"
+venue: "ICLR 2024"
 
 tags:
 - publication
 
 links:
 # - name: Custom Link
-url_project: https://fkryan.github.io/saal
-url_pdf: https://arxiv.org/pdf/2303.16024.pdf
+# url_project: https://fkryan.github.io/saal
+url_pdf: https://arxiv.org/pdf/2311.00519.pdf
 # url_poster: 
 # url_dataset: 
 # url_poster: '#'

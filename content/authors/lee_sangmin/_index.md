@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Post Doc
+role: Postdoc
 
 # Organizations/Affiliations
 organizations:
@@ -22,7 +22,7 @@ bio: ""
 
 education:
   courses:
-  - course: Post Doc
+  - course: Postdoc
     institution: University of Illinois Urbana-Champaign
     year: 2023-present
 
@@ -45,7 +45,7 @@ external_link: https://sites.google.com/view/sangmin-lee
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Post Doc Researchers
+- Postdoc Researchers
 
 weight: 22
 ---

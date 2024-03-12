@@ -88,19 +88,19 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "rehg@gatech.edu"
+email = "jrehg [at] illinois.edu"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "CODA Building, 756 W Peachtree St NW, Georgia Institue of Technology", city = "Atlanta", region = "GA", postcode = "30308", country = "United States", country_code = "US"}
+address = {street = "Health Care Engineering Systems Center, 1206 W Clark St", city = "Urbana", region = "IL", postcode = "61801", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "33.774826", longitude = "-84.387735"}
 
 # Directions for visitors to locate you.
-directions = "CODA 15th floor, office 1550-B"
+#directions = "CODA 15th floor, office 1550-B"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.

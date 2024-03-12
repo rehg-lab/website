@@ -1,7 +1,7 @@
 ---
 title: "Explaining a machine learning decision to physicians via counterfactuals"
 authors:
-- Supriya Nagesh, Nina Mishra, Yonatan Naamad, James M Rehg, Mehul A Shah, Alexei Wagner
+- Supriya Nagesh, Nina Mishra, Yonatan Naamad, James M. Rehg, Mehul A Shah, Alexei Wagner
 date: "2023-01-01"
 doi: ""
 

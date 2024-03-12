@@ -1,7 +1,7 @@
 ---
 title: "In the Eye of Transformer: Global–Local Correlation for Egocentric Gaze Estimation and Beyond"
 authors:
-- Bolin Lai, Miao Liu, Fiona Ryan, James M Rehg
+- Bolin Lai, Miao Liu, Fiona Ryan, James M. Rehg
 date: "2023-11-01"
 doi: ""
 

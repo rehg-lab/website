@@ -1,7 +1,7 @@
 ---
 title: "Kernel Multimodal Continuous Attention"
 authors:
-- Alexander Moreno, Zhenke Wu, Supriya Nagesh, Walter Dempsey, James M Rehg
+- Alexander Moreno, Zhenke Wu, Supriya Nagesh, Walter Dempsey, James M. Rehg
 date: "2022-12-01"
 doi: ""
 

@@ -1,7 +1,7 @@
 ---
 title: "3D Reconstruction of Novel Object Shapes from Single Images"
 authors:
-- Anh Thai, Stefan Stojanov, Vijay Upadhya, James M Rehg
+- Anh Thai, Stefan Stojanov, Vijay Upadhya, James M. Rehg
 date: "2021-01-02"
 doi: ""
 

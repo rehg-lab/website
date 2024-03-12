@@ -1,7 +1,7 @@
 ---
 title: "Discriminative Appearance Modeling with Multi-track Pooling for Real-time Multi-object Tracking"
 authors:
-- Chanho Kim, Li Fuxin, Mazen Alotaibi, James M Rehg
+- Chanho Kim, Li Fuxin, Mazen Alotaibi, James M. Rehg
 date: "2021-06-01"
 doi: ""
 

@@ -1,7 +1,7 @@
 ---
 title: "Approximate Inverse Reinforcement Learning from Vision-based Imitation Learning"
 authors:
-- Keuntaek Lee, Bogdan Vlahov, Jason Gibson, James M Rehg, Evangelos A Theodorou
+- Keuntaek Lee, Bogdan Vlahov, Jason Gibson, James M. Rehg, Evangelos A Theodorou
 date: "2021-01-02"
 doi: ""
 

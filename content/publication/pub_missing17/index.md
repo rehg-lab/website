@@ -1,7 +1,7 @@
 ---
 title: "The mobile assistance for regulating smoking (MARS) micro-randomized trial design protocol"
 authors:
-- Inbal Nahum-Shani, Lindsey N Potter, Cho Y Lam, Jamie Yap, Alexander Moreno, Rebecca Stoffel, Zhenke Wu, Neng Wan, Walter Dempsey, Santosh Kumar, Emre Ertin, Susan A Murphy, James M Rehg, David W Wetter
+- Inbal Nahum-Shani, Lindsey N Potter, Cho Y Lam, Jamie Yap, Alexander Moreno, Rebecca Stoffel, Zhenke Wu, Neng Wan, Walter Dempsey, Santosh Kumar, Emre Ertin, Susan A Murphy, James M. Rehg, David W Wetter
 date: "2021-01-01"
 doi: ""
 

@@ -1,7 +1,7 @@
 ---
 title: "Continuous measurement of attachment behavior: A multimodal view of the strange situation procedure"
 authors:
-- Emily B Prince, Arridhana Ciptadi, Yudong Tao, Agata Rozga, Katherine B Martin, Jim Rehg, Daniel S Messinger
+- Emily B Prince, Arridhana Ciptadi, Yudong Tao, Agata Rozga, Katherine B Martin, James M. Rehg, Daniel S Messinger
 date: "2021-01-01"
 doi: ""
 

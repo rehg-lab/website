@@ -1,7 +1,7 @@
 ---
 title: "The Surprising Positive Knowledge Transfer in Continual 3D Object Shape Reconstruction"
 authors:
-- Anh Thai, Stefan Stojanov, Zixuan Huang, James M Rehg
+- Anh Thai, Stefan Stojanov, Zixuan Huang, James M. Rehg
 date: "2022-01-01"
 doi: ""
 

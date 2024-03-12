@@ -1,7 +1,7 @@
 ---
 title: "Which way is ‘right’?: Uncovering limitations of Vision-and-Language Navigation models"
 authors:
-- Meera Hahn, Amit Raj, James M Rehg
+- Meera Hahn, Amit Raj, James M. Rehg
 date: "2023-01-01"
 doi: ""
 

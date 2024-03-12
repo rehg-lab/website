@@ -1,7 +1,7 @@
 ---
 title: "Orthogonal Over-Parameterized Training"
 authors:
-- Weiyang Liu, Rongmei Lin, Zhen Liu, James M Rehg, Liam Paull, Li Xiong, Le Song, Adrian Weller
+- Weiyang Liu, Rongmei Lin, Zhen Liu, James M. Rehg, Liam Paull, Li Xiong, Le Song, Adrian Weller
 date: "2021-06-01"
 doi: ""
 

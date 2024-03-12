@@ -1,7 +1,7 @@
 ---
 title: "mRisk: Continuous Risk Estimation for Smoking Lapse from Noisy Sensor Data with Incomplete and Positive-Only Labels"
 authors:
-- Md Azim Ullah, Soujanya Chatterjee, Christopher P Fagundes, Cho Lam, Inbal Nahum-Shani, James M Rehg, David W Wetter, Santosh Kumar
+- Md Azim Ullah, Soujanya Chatterjee, Christopher P Fagundes, Cho Lam, Inbal Nahum-Shani, James M. Rehg, David W Wetter, Santosh Kumar
 date: "2022-01-01"
 doi: ""
 

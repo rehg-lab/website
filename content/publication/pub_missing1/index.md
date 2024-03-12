@@ -1,7 +1,7 @@
 ---
 title: "Low-shot Object Learning with Mutual Exclusivity Bias"
 authors:
-- Anh Thai, Ahmad Humayun, Stefan Stojanov, Zixuan Huang, Bikram Boote, James M Rehg
+- Anh Thai, Ahmad Humayun, Stefan Stojanov, Zixuan Huang, Bikram Boote, James M. Rehg
 date: "2023-12-01"
 doi: ""
 

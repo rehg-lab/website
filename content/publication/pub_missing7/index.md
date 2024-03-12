@@ -1,7 +1,7 @@
 ---
 title: "Egocentric Activity Recognition and Localization on a 3D Map"
 authors:
-- Miao Liu, Lingni Ma, Kiran Somasundaram, Yin Li, Kristen Grauman, James M Rehg, Chao Li
+- Miao Liu, Lingni Ma, Kiran Somasundaram, Yin Li, Kristen Grauman, James M. Rehg, Chao Li
 date: "2022-04-29"
 doi: ""
 

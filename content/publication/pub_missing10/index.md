@@ -1,7 +1,7 @@
 ---
 title: "No RL, No Simulation: Learning to Navigate without Navigating"
 authors:
-- Meera Hahn, Devendra Singh Chaplot, Shubham Tulsiani, Mustafa Mukadam, James M Rehg, Abhinav Gupta
+- Meera Hahn, Devendra Singh Chaplot, Shubham Tulsiani, Mustafa Mukadam, James M. Rehg, Abhinav Gupta
 date: "2021-12-01"
 doi: ""
 

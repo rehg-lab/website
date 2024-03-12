@@ -6,7 +6,7 @@ authors:
 - Zixuan Huang
 - James M. Rehg
 
-date: "2021-01-18"
+date: "2022-01-01"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -38,5 +38,5 @@ url_code: https://github.com/rehg-lab/CLRec
 # url_video: '#'
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 ---

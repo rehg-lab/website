@@ -1,19 +1,8 @@
 ---
-title: "LaMPilot: An Open Benchmark Dataset for Autonomous Driving with Language Model Programs"
+title: "Discriminative Appearance Modeling with Multi-track Pooling for Real-time Multi-object Tracking"
 authors:
-- Yunsheng Ma*
-- Can Cui*
-- Xu Cao*
-- Wenqian Ye
-- Peiran Liu
-- Juanwu Lu
-- Amr Abdelraouf
-- Rohit Gupta
-- Kyungtae Han
-- Aniket Bera
-- James M. Rehg
-- Ziran Wang
-date: "2024-02-28"
+- Chanho Kim, Li Fuxin, Mazen Alotaibi, James M Rehg
+date: "2021-06-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -26,7 +15,7 @@ doi: ""
 publication_types: ["1"]
 
 # Venue
-venue: "CVPR 2024"
+venue: "CVPR 2021"
 
 tags:
 - publication

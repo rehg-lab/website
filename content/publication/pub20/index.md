@@ -3,7 +3,7 @@ title: "Ego4D: Around the World in 3,000 Hours of Egocentric Video"
 authors:
 - Kristen Grauman et al.
 - (including lab members Miao Liu, Fiona Ryan, Wenqi Jia, Audrey Southerland, and James M. Rehg)
-date: "2021-10-13"
+date: "2022-04-08"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -32,5 +32,5 @@ url_dataset: https://ego4d-data.org/docs/start-here/
 # url_source: '#'
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 ---

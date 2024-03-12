@@ -1,19 +1,8 @@
 ---
-title: "LaMPilot: An Open Benchmark Dataset for Autonomous Driving with Language Model Programs"
+title: "Explaining a machine learning decision to physicians via counterfactuals"
 authors:
-- Yunsheng Ma*
-- Can Cui*
-- Xu Cao*
-- Wenqian Ye
-- Peiran Liu
-- Juanwu Lu
-- Amr Abdelraouf
-- Rohit Gupta
-- Kyungtae Han
-- Aniket Bera
-- James M. Rehg
-- Ziran Wang
-date: "2024-02-28"
+- Supriya Nagesh, Nina Mishra, Yonatan Naamad, James M Rehg, Mehul A Shah, Alexei Wagner
+date: "2023-01-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -26,7 +15,7 @@ doi: ""
 publication_types: ["1"]
 
 # Venue
-venue: "CVPR 2024"
+venue: "CHIL 2023"
 
 tags:
 - publication

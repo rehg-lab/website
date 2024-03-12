@@ -1,19 +1,8 @@
 ---
-title: "LaMPilot: An Open Benchmark Dataset for Autonomous Driving with Language Model Programs"
+title: "Werewolf Among Us: A Multimodal Dataset for Modeling Persuasion Behaviors in Social Deduction Games"
 authors:
-- Yunsheng Ma*
-- Can Cui*
-- Xu Cao*
-- Wenqian Ye
-- Peiran Liu
-- Juanwu Lu
-- Amr Abdelraouf
-- Rohit Gupta
-- Kyungtae Han
-- Aniket Bera
-- James M. Rehg
-- Ziran Wang
-date: "2024-02-28"
+- Bolin Lai, Hongxin Zhang, Miao Liu, Aryan Pariani, Fiona Ryan, Wenqi Jia, Shirley Anugrah Hayati, James Rehg, Diyi Yang
+date: "2023-08-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -26,7 +15,7 @@ doi: ""
 publication_types: ["1"]
 
 # Venue
-venue: "CVPR 2024"
+venue: "ACL Findings 2023"
 
 tags:
 - publication

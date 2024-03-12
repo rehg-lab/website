@@ -1,19 +1,8 @@
 ---
-title: "LaMPilot: An Open Benchmark Dataset for Autonomous Driving with Language Model Programs"
+title: "Orthogonal Over-Parameterized Training"
 authors:
-- Yunsheng Ma*
-- Can Cui*
-- Xu Cao*
-- Wenqian Ye
-- Peiran Liu
-- Juanwu Lu
-- Amr Abdelraouf
-- Rohit Gupta
-- Kyungtae Han
-- Aniket Bera
-- James M. Rehg
-- Ziran Wang
-date: "2024-02-28"
+- Weiyang Liu, Rongmei Lin, Zhen Liu, James M Rehg, Liam Paull, Li Xiong, Le Song, Adrian Weller
+date: "2021-06-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -26,7 +15,7 @@ doi: ""
 publication_types: ["1"]
 
 # Venue
-venue: "CVPR 2024"
+venue: "CVPR 2021"
 
 tags:
 - publication

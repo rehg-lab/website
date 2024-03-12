@@ -1,19 +1,8 @@
 ---
-title: "LaMPilot: An Open Benchmark Dataset for Autonomous Driving with Language Model Programs"
+title: "Egocentric Activity Recognition and Localization on a 3D Map"
 authors:
-- Yunsheng Ma*
-- Can Cui*
-- Xu Cao*
-- Wenqian Ye
-- Peiran Liu
-- Juanwu Lu
-- Amr Abdelraouf
-- Rohit Gupta
-- Kyungtae Han
-- Aniket Bera
-- James M. Rehg
-- Ziran Wang
-date: "2024-02-28"
+- Miao Liu, Lingni Ma, Kiran Somasundaram, Yin Li, Kristen Grauman, James M Rehg, Chao Li
+date: "2022-04-29"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -26,7 +15,7 @@ doi: ""
 publication_types: ["1"]
 
 # Venue
-venue: "CVPR 2024"
+venue: "ECCV 2022"
 
 tags:
 - publication

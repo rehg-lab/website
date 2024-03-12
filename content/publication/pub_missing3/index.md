@@ -1,19 +1,8 @@
 ---
-title: "LaMPilot: An Open Benchmark Dataset for Autonomous Driving with Language Model Programs"
+title: "In the Eye of Transformer: Global–Local Correlation for Egocentric Gaze Estimation and Beyond"
 authors:
-- Yunsheng Ma*
-- Can Cui*
-- Xu Cao*
-- Wenqian Ye
-- Peiran Liu
-- Juanwu Lu
-- Amr Abdelraouf
-- Rohit Gupta
-- Kyungtae Han
-- Aniket Bera
-- James M. Rehg
-- Ziran Wang
-date: "2024-02-28"
+- Bolin Lai, Miao Liu, Fiona Ryan, James M Rehg
+date: "2023-11-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -23,10 +12,10 @@ doi: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Venue
-venue: "CVPR 2024"
+venue: "IJCV 2023"
 
 tags:
 - publication

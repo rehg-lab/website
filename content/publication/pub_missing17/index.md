@@ -1,19 +1,8 @@
 ---
-title: "LaMPilot: An Open Benchmark Dataset for Autonomous Driving with Language Model Programs"
+title: "The mobile assistance for regulating smoking (MARS) micro-randomized trial design protocol"
 authors:
-- Yunsheng Ma*
-- Can Cui*
-- Xu Cao*
-- Wenqian Ye
-- Peiran Liu
-- Juanwu Lu
-- Amr Abdelraouf
-- Rohit Gupta
-- Kyungtae Han
-- Aniket Bera
-- James M. Rehg
-- Ziran Wang
-date: "2024-02-28"
+- Inbal Nahum-Shani, Lindsey N Potter, Cho Y Lam, Jamie Yap, Alexander Moreno, Rebecca Stoffel, Zhenke Wu, Neng Wan, Walter Dempsey, Santosh Kumar, Emre Ertin, Susan A Murphy, James M Rehg, David W Wetter
+date: "2021-01-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -23,10 +12,10 @@ doi: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Venue
-venue: "CVPR 2024"
+venue: "Contemporary Clinical Trials 2021"
 
 tags:
 - publication

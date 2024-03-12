@@ -1,19 +1,8 @@
 ---
-title: "LaMPilot: An Open Benchmark Dataset for Autonomous Driving with Language Model Programs"
+title: "Continuous measurement of attachment behavior: A multimodal view of the strange situation procedure"
 authors:
-- Yunsheng Ma*
-- Can Cui*
-- Xu Cao*
-- Wenqian Ye
-- Peiran Liu
-- Juanwu Lu
-- Amr Abdelraouf
-- Rohit Gupta
-- Kyungtae Han
-- Aniket Bera
-- James M. Rehg
-- Ziran Wang
-date: "2024-02-28"
+- Emily B Prince, Arridhana Ciptadi, Yudong Tao, Agata Rozga, Katherine B Martin, Jim Rehg, Daniel S Messinger
+date: "2021-01-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -23,10 +12,10 @@ doi: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Venue
-venue: "CVPR 2024"
+venue: "Infant Behavior and Development 2021"
 
 tags:
 - publication

@@ -23,7 +23,7 @@ tags:
 links:
 # - name: Custom Link
 # url_project: https://fkryan.github.io/saal
-# url_pdf: https://arxiv.org/pdf/2303.16024.pdf
+url_pdf: https://arxiv.org/abs/2306.06325
 # url_poster:
 # url_dataset:
 # url_poster: '#'

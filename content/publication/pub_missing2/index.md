@@ -22,8 +22,8 @@ tags:
 
 links:
 # - name: Custom Link
-# url_project: https://fkryan.github.io/saal
-# url_pdf: https://arxiv.org/pdf/2303.16024.pdf
+url_project: https://persuasion-deductiongame.socialai-data.org
+url_pdf: https://arxiv.org/pdf/2212.08279.pdf
 # url_poster:
 # url_dataset:
 # url_poster: '#'

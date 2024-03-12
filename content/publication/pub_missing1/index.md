@@ -22,8 +22,8 @@ tags:
 
 links:
 # - name: Custom Link
-# url_project: https://fkryan.github.io/saal
-# url_pdf: https://arxiv.org/pdf/2303.16024.pdf
+url_project: https://ngailapdi.github.io/projects/lsme/
+url_pdf: https://arxiv.org/pdf/2312.03533.pdf
 # url_poster:
 # url_dataset:
 # url_poster: '#'

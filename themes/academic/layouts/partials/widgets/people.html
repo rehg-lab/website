@@ -26,36 +26,55 @@
   {{if $query}}
   <div class="col-md-12">
     <br>
-    <h2 class="mb-4">{{ . | markdownify }}</h2>
+    <h2 class="mb-4 people-group-title" data-group="{{ . | urlize }}">
+      {{ . | markdownify }}
+      {{if eq . "Alumni"}}<i class="fas fa-caret-down"></i>{{end}}
+    </h2>
   </div>
-  {{end}}
+  <div class="col-md-12 people-group" id="{{ . | urlize }}" {{if eq . "Alumni"}}style="display: none;"{{end}}>
+    <div class="row justify-content-center">
+      {{ range $query }}
+      {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
+      {{/* Get link to user's profile page. */}}
+      {{ $link := "" }}
+      {{ with site.GetPage (printf "/authors/%s" (path.Base (path.Split .Path).Dir)) }}
+        {{ $link = .RelPermalink }}
+      {{ end }}
+      <div class="col-12 col-sm-auto people-person text-center">
+        {{ $src := "" }}
+        {{ if site.Params.avatar.gravatar }}
+          {{ $src = printf "https://s.gravatar.com/avatar/%s?s=150" (md5 .Params.email) }}
+        {{ else if $avatar }}
+          {{ $avatar_image := $avatar.Fill "270x270 Center" }}
+          {{ $src = $avatar_image.RelPermalink }}
+        {{ end }}
+        {{ if $src }}
+          {{ $avatar_shape := site.Params.avatar.shape | default "circle" }}
+          {{with $link}}<a href="{{.}}">{{end}}<img class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="{{ $src }}" alt="Avatar">{{if $link}}</a>{{end}}
+        {{ end }}
 
-  {{ range $query }}
-  {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
-  {{/* Get link to user's profile page. */}}
-  {{ $link := "" }}
-  {{ with site.GetPage (printf "/authors/%s" (path.Base (path.Split .Path).Dir)) }}
-    {{ $link = .Params.external_link }}
-  {{ end }}
-  <div class="col-12 col-sm-auto people-person">
-    {{ $src := "" }}
-    {{ if site.Params.avatar.gravatar }}
-      {{ $src = printf "https://s.gravatar.com/avatar/%s?s=150" (md5 .Params.email) }}
-    {{ else if $avatar }}
-      {{ $avatar_image := $avatar.Fill "270x270 Center" }}
-      {{ $src = $avatar_image.RelPermalink }}
-    {{ end }}
-    {{ if $src }}
-      {{ $avatar_shape := site.Params.avatar.shape | default "circle" }}
-      {{with $link}}<a href="{{.}}">{{end}}<img class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="{{ $src }}" alt="Avatar">{{if $link}}</a>{{end}}
-    {{ end }}
-
-    <div class="portrait-title">
-      <h2>{{with $link}}<a href="{{.}}">{{end}}{{ .Title }}{{if $link}}</a>{{end}}</h2>
-      {{ with .Params.role }}<h3>{{ . | markdownify | emojify }}</h3>{{ end }}
-      {{ if and $show_interests .Params.interests }}<p class="people-interests">{{ delimit .Params.interests ", " | markdownify | emojify }}</p>{{ end }}
+        <div class="portrait-title">
+          <h2>{{with $link}}<a href="{{.}}">{{end}}{{ .Title }}{{if $link}}</a>{{end}}</h2>
+          {{ with .Params.role }}<h3>{{ . | markdownify | emojify }}</h3>{{ end }}
+          {{ if and $show_interests .Params.interests }}<p class="people-interests">{{ delimit .Params.interests ", " | markdownify | emojify }}</p>{{ end }}
+        </div>
+      </div>
+      {{ end }}
     </div>
   </div>
-  {{ end }}
+  {{end}}
   {{ end }}
 </div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var alumniTitle = document.querySelector('.people-group-title[data-group="alumni"]');
+    var alumniGroup = document.getElementById('alumni');
+
+    alumniTitle.addEventListener('click', function() {
+      alumniGroup.style.display = alumniGroup.style.display === 'none' ? 'block' : 'none';
+      alumniTitle.querySelector('i').classList.toggle('fa-caret-down');
+      alumniTitle.querySelector('i').classList.toggle('fa-caret-up');
+    });
+  });
+</script>

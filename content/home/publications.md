@@ -39,6 +39,7 @@ subtitle = ""
   #   4 = Citation (publication only)
   #   6 = custom publication style
   view = 6
+  
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -47,7 +48,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  color = "white"
 
   # Background gradient.
   # gradient_start = "DeepSkyBlue"

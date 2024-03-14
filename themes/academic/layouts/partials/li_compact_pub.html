@@ -42,7 +42,7 @@
   <div class="align-self-center mr-3">
     {{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
     {{ with $resource }}
-    {{ $image := .Resize "125x" }}
+    {{ $image := .Resize "250x" }}
     <img src="{{ $image.RelPermalink }}" alt="{{ $item.Title }}">
     {{end}}
   </div>

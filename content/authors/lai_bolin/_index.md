@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Machine Learning PhD
+role: ML PhD
 
 # Organizations/Affiliations
 organizations:
@@ -51,7 +51,7 @@ external_link: https://bolinlai.github.io/
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Lab Members
 
 weight: 20
 ---

@@ -13,7 +13,8 @@ subtitle = ""
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups = ["Principal Investigators",
+  user_groups = ["Principal Investigator",
+                  "Lab Members",
                  "Postdoc Researchers",
                  "Graduate Students",
                  "Undergraduate Students",
@@ -36,7 +37,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  color = "white"
 
   # Background gradient.
   # gradient_start = "DeepSkyBlue"

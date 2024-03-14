@@ -16,7 +16,7 @@ $sta-font-mono: "{{ $scr.Get "mono_font" }}";
 
 $sta-primary: {{ $scr.Get "primary" }};
 $sta-primary-light: lighten($sta-primary, $sta-lighten-percentage);
-$sta-primary-dark: darken($sta-primary, $sta-darken-percentage);
+$sta-primary-dark: darken($sta-primary, $sta-lighten-percentage);
 
 $sta-link: {{ $scr.Get "link" }};
 $sta-link-hover: {{ $scr.Get "link_hover" }};
@@ -32,8 +32,8 @@ $sta-dark-background: {{ $scr.Get "dark_background" }};
 $sta-home-section-odd: {{ $scr.Get "home_section_odd" }};
 $sta-home-section-even: {{ $scr.Get "home_section_even" }};
 
-$sta-dark-home-section-odd: {{ $scr.Get "dark_home_section_odd" }};
-$sta-dark-home-section-even: {{ $scr.Get "dark_home_section_even" }};
+$sta-dark-home-section-odd: {{ $scr.Get "home_section_odd" }};
+$sta-dark-home-section-even: {{ $scr.Get "home_section_even" }};
 
 @import "bootstrap_variables";
 @import "vendor/bootstrap/bootstrap";

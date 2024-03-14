@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Founder Professor
+role: Professor
 
 # Organizations/Affiliations
 organizations:
@@ -68,7 +68,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigator
+- Principal Investigators
 ---
 
 James M. Rehg (pronounced “ray”) is a Founder Professor of Computer Science and Industrial and Enterprise Systems Engineering at University of Illinois Urbana-Champaign. Previously, he was a Professor in the School of Interactive Computing at the Georgia Institute of Technology, where he co-Directed the Center for Health Analytics and Informatics (CHAI). He received his Ph.D. from CMU in 1995 and worked at the Cambridge Research Lab of DEC (and then Compaq) from 1995-2001, where he managed the computer vision research group. He received an NSF CAREER award in 2001 and a Raytheon Faculty Fellowship from Georgia Tech in 2005. He and his students have received a number of best paper awards, including best student paper awards at ICML 2005, BMVC 2010, Mobihealth 2014, Face and Gesture 2015, and a Distinguished Paper Award from ACM IMWUT and a Method of the Year award from the journal Nature Methods. Dr. Rehg served as the General co-Chair for CVPR 2009 and the Program co-Chair for CVPR 2017. He has authored more than 200 peer-reviewed scientific papers and holds 26 issued US patents.

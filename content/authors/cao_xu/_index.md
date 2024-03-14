@@ -45,7 +45,7 @@ external_link: https://scholar.google.com/citations?user=oXWRBrwAAAAJ&hl=zh-CN
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Lab Members
+- Graduate Students
 
 weight: 22
 ---

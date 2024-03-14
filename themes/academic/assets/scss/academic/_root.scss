@@ -21,8 +21,6 @@ body {
   color: inherit;
   background-color: $sta-background;
   margin-top: 70px; /* Offset body content by navbar height. */
-  margin-left: 200px;
-  margin-right: 200px;
   padding-top: 0;
   counter-reset: captions;
 }
@@ -94,8 +92,7 @@ h1, h2, h3, h4, h5, h6 {
   hyphens: manual;
 }
 h1 {
-  font-size: 2.0rem;
-  color: #3b70c5;
+  font-size: 2.25rem;
 }
 h2 {
   margin-top: 1rem;
@@ -364,7 +361,7 @@ footer a.back-to-top i {
 .dark site-footer,
 .dark footer a.back-to-top i,
 .dark .docs .body-footer {
-  color: rgba(0,0,0,0.8);
+  color: rgba(255,255,255,0.54);
 }
 
 /**************************************************
@@ -409,7 +406,7 @@ a.badge:hover {
 .tag-cloud a:active,
 .tag-cloud a:focus,
 .tag-cloud a:hover {
-  color: $sta-primary-light;
+  color: $sta-primary-dark;
   transform: scale(1.2);
 }
 
@@ -466,7 +463,7 @@ a.badge:hover {
 
 .btn-toolbar .btn.btn-primary:active,
 .btn-toolbar .btn.btn-primary.active {
-  background-color: $sta-primary-light !important;
+  background-color: $sta-primary-dark !important;
 }
 
 .btn-primary:not(:disabled):not(.disabled).active:focus,

@@ -61,18 +61,10 @@
 
 .media.stream-item-pub .article-venue,
 .card-simple .article-title {
-  font-size: 1rem;
-  font-weight: 600;
+  font-size: 0.8rem;
+  font-weight: 500;
   color: $sta-menu-primary;
 }
-
-.media.stream-item-pub .article-metadata,
-.card-simple .article-title {
-  font-size: 0.9rem;
-  font-weight: 500;
-  color: rgba(0, 0, 0, 0.54);
-}
-
 .media.stream-item .article-style,
 .card-simple .article-style {
   margin-top: 2px;

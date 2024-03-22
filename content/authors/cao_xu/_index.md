@@ -40,7 +40,7 @@ education:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "xucao2@illinois.edu"
 
-external_link: https://scholar.google.com/citations?user=oXWRBrwAAAAJ&hl=zh-CN
+external_link: https://scholar.google.com/citations?hl=en&user=oXWRBrwAAAAJ
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

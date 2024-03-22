@@ -42,8 +42,8 @@
   <div class="align-self-center mr-3">
     {{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
     {{ with $resource }}
-    {{ $image := .Resize "250x" }}
-    <img src="{{ $image.RelPermalink }}" alt="{{ $item.Title }}">
+    {{ $image := .Resize "500x" }}
+    <img src="{{ $image.RelPermalink }}" alt="{{ $item.Title }}" width="200">
     {{end}}
   </div>
 
@@ -52,20 +52,20 @@
     <h3 class="article-title mb-0 mt-0">
     {{ $item.Title }}
     </h3>
-    
+
     <h3 class="article-venue mb-0 mt-0">
     {{ with $venue }}
         {{.}}
     {{ end }}
     </h3>
-     
+
     <h3 class="article-venue mb-0 mt-0">
     {{ with $summary }}
         {{.}}
     {{ end }}
     </h3>
-  
-    
+
+
     <div class="stream-meta article-metadata">
 
       {{ if eq $item.Type "talk" }}

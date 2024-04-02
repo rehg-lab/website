@@ -26,14 +26,14 @@ tags:
 
 links:
 # - name: Custom Link
-# url_project: https://fkryan.github.io/saal
-# url_pdf: https://arxiv.org/pdf/2303.16024.pdf
-# url_poster: 
-# url_dataset: 
+url_project: https://rave-video.github.io/
+url_pdf: https://arxiv.org/pdf/2312.04524.pdf
+# url_poster:
+# url_dataset:
 # url_poster: '#'
 # url_slides: ''
 # url_source: '#'
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 ---

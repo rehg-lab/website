@@ -29,12 +29,12 @@ links:
 # - name: Custom Link
 url_project: https://zixuanh.com/projects/shapeclipper.html
 url_pdf: https://arxiv.org/pdf/2304.06247.pdf
-# url_poster: 
-# url_dataset: 
+# url_poster:
+# url_dataset:
 # url_poster: '#'
 # url_slides: ''
 # url_source: '#'
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 ---

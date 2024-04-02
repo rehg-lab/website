@@ -1,19 +1,8 @@
 ---
-title: "LaMPilot: An Open Benchmark Dataset for Autonomous Driving with Language Model Programs"
+title: "MAPLM: A Real-World Large-Scale Vision-Language Dataset for Map and Traffic Scene Understanding"
 authors:
-- Yunsheng Ma*
-- Can Cui*
-- Xu Cao*
-- Wenqian Ye
-- Peiran Liu
-- Juanwu Lu
-- Amr Abdelraouf
-- Rohit Gupta
-- Kyungtae Han
-- Aniket Bera
-- James M. Rehg
-- Ziran Wang
-date: "2024-02-28"
+- Xu Cao*, Tong Zhou*,  Yunsheng Ma*, Wenqian Ye, Can Cui, Kun Tang, Zhipeng Cao, Kaizhao Liang, Ziran Wang, James M. Rehg, Chao Zheng
+date: "2024-04-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -33,13 +22,13 @@ tags:
 
 links:
 # - name: Custom Link
-# url_project: https://fkryan.github.io/saal
-url_pdf: https://arxiv.org/pdf/2312.04372.pdf
+url_project: https://github.com/LLVM-AD/MAPLM
+# url_pdf: https://arxiv.org/pdf/2303.16024.pdf
 # url_poster:
 # url_dataset:
 # url_poster: '#'
 # url_slides: ''
-# url_source: '#'
+# url_source:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

@@ -1,19 +1,8 @@
 ---
-title: "LaMPilot: An Open Benchmark Dataset for Autonomous Driving with Language Model Programs"
+title: "PointInfinity: Resolution-Invariant Point Diffusion Models"
 authors:
-- Yunsheng Ma*
-- Can Cui*
-- Xu Cao*
-- Wenqian Ye
-- Peiran Liu
-- Juanwu Lu
-- Amr Abdelraouf
-- Rohit Gupta
-- Kyungtae Han
-- Aniket Bera
-- James M. Rehg
-- Ziran Wang
-date: "2024-02-28"
+- Zixuan Huang, Justin Johnson, Shoubhik Debnath, James M. Rehg, Chao-Yuan Wu
+date: "2024-04-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -34,7 +23,7 @@ tags:
 links:
 # - name: Custom Link
 # url_project: https://fkryan.github.io/saal
-url_pdf: https://arxiv.org/pdf/2312.04372.pdf
+# url_pdf: https://arxiv.org/pdf/2303.16024.pdf
 # url_poster:
 # url_dataset:
 # url_poster: '#'

@@ -19,7 +19,7 @@ doi: ""
 publication_types: ["1"]
 
 # Venue
-venue: "CVPR 2024"
+venue: "CVPR 2024 (Highlight, Acceptance rate 3.6%)"
 
 tags:
 - publication

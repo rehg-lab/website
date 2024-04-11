@@ -530,11 +530,14 @@ ul.ul-edu li .description p.institution {
 
 .people-widget .portrait-title h2 {
   font-size: 1.1rem;
+  height: 20px;
+  margin-top: 15px
 }
 
 .people-widget .portrait-title h3 {
-  font-size: 1.0rem;
+  font-size: 1rem;
   color: rgba(0,0,0,0.8);
+  margin-bottom: 30px
 }
 
 .people-widget .avatar {
@@ -551,6 +554,7 @@ ul.ul-edu li .description p.institution {
 @media (min-width: 992px) {
   .people-widget .col-sm-auto {
     width: 20%;
+    // height: 270px;
   }
 }
 

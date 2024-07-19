@@ -28,7 +28,7 @@ url_pdf: https://arxiv.org/pdf/2312.03849.pdf
 # url_dataset:
 # url_poster: '#'
 # url_slides: ''
-url_source: https://github.com/BolinLai/LEGO
+# url_source: https://github.com/BolinLai/LEGO
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

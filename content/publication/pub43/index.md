@@ -15,7 +15,7 @@ doi: ""
 publication_types: ["1"]
 
 # Venue
-venue: "CVPR 2025 (Highlight)"
+venue: "CVPR 2025 (Highlight, Acceptance rate 3.0%)"
 
 tags:
 - publication

@@ -41,5 +41,5 @@ external_link: https://briannlongzhao.github.io/about/
 user_groups:
 - Lab Members
 
-weight: 30
+weight: 24
 ---

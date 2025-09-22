@@ -39,5 +39,5 @@ email: "vdm4@illinois.edu"
 user_groups:
 - Lab Members
 
-weight: 20
+weight: 33
 ---

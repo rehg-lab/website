@@ -39,5 +39,5 @@ email: "sv69@illinois.edu"
 user_groups:
 - Lab Members
 
-weight: 21
+weight: 35
 ---

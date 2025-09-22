@@ -4,15 +4,16 @@
 .card .card-image.hover-overlay:after {
 }
 
-/* Adjust font size for long names in people cards */
-.long-name .card-text h5,
-.long-name h3,
-.portrait-title h2.long-name {
-  font-size: 0.85rem !important;
-  line-height: 1.1 !important;
+/* Fix long names in people widget - prevent wrapping and overlap */
+.people-widget .portrait-title h2 {
+  font-size: 0.9rem !important;
+  white-space: nowrap !important;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+  max-width: 100% !important;
 }
 
-/* Force smaller text for people widget specifically */
+/* Specific fix for very long names */
 .people-widget .long-name .portrait-title h2 {
   font-size: 0.8rem !important;
 }

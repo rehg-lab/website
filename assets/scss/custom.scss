@@ -3,3 +3,14 @@
 
 .card .card-image.hover-overlay:after {
 }
+
+/* Adjust font size for long names in people cards */
+.people-widget .card-text h5 {
+  font-size: 0.9rem;
+  line-height: 1.2;
+}
+
+/* Specifically for very long names, make them even smaller */
+.card-text h5:has-text("Aditya Radhakrishnan") {
+  font-size: 0.8rem;
+}

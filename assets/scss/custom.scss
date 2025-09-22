@@ -4,16 +4,12 @@
 .card .card-image.hover-overlay:after {
 }
 
-/* Fix long names in people widget - prevent wrapping and overlap */
-.people-widget .portrait-title h2 {
-  font-size: 0.9rem !important;
+/* Specific fix only for Aditya's long name */
+.people-widget .long-name .portrait-title h2 {
+  font-size: 0.75rem !important;
   white-space: nowrap !important;
   overflow: hidden !important;
   text-overflow: ellipsis !important;
   max-width: 100% !important;
-}
-
-/* Specific fix for very long names */
-.people-widget .long-name .portrait-title h2 {
-  font-size: 0.8rem !important;
+  line-height: 1.1 !important;
 }

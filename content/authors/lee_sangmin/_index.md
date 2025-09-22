@@ -24,7 +24,7 @@ education:
   courses:
   - course: Postdoc
     institution: University of Illinois Urbana-Champaign
-    year: 2023-present
+    year: 2023-2024
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,7 +45,7 @@ external_link: https://sites.google.com/view/sangmin-lee
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Lab Members
+- Alumni
 
 weight: 10
 ---

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Engineer
+role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
@@ -22,9 +22,9 @@ bio: ""
 
 education:
   courses:
-  - course: Research Engineer
+  - course: PhD in Computer Science
     institution: University of Illinois Urbana-Champaign
-    year: 2022-present
+    year: 2025-present
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

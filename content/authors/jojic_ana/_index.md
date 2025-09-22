@@ -35,5 +35,5 @@ email: "ajojic2@illinois.edu"
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Lab Members
-weight: 26
+weight: 18
 ---

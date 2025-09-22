@@ -1,0 +1,10 @@
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const nameElements = document.querySelectorAll('.people-widget .portrait-title h2');
+  nameElements.forEach(function(element) {
+    if (element.textContent.includes('Aditya Radhakrishnan')) {
+      element.classList.add('long-name-fix');
+    }
+  });
+});
+</script>

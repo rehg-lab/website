@@ -20,6 +20,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: ""
 
+# Custom CSS class for long names
+css_class: "long-name"
+
 education:
   courses:
   - course: PhD in Computer Science

@@ -4,8 +4,8 @@
 .card .card-image.hover-overlay:after {
 }
 
-/* Specific fix only for Aditya's long name */
-.people-widget .long-name .portrait-title h2 {
+/* CSS class for long names that will be applied via JavaScript */
+.long-name-fix {
   font-size: 0.75rem !important;
   white-space: nowrap !important;
   overflow: hidden !important;

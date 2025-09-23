@@ -15,7 +15,7 @@ doi: ""
 publication_types: ["1"]
 
 # Venue
-venue: "ECCV 2024"
+venue: "ECCV 2024 (Oral, Acceptance rate 2.3%, 🏆 Best Paper Finalist)"
 
 tags:
 - publication

@@ -49,8 +49,16 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-We conduct basic research in computer vision and machine learning, and work in a number of interdisciplinary areas: developmental and social psychology, autism research, mobile health, and robotics. The study of human social and cognitive behavior is a cross-cutting theme. We are developing novel methods for measuring behavior in real-life settings, and computational models that connect health-related behaviors to health outcomes in order to enable novel forms of treatment. We are creating machine learning methods that are inspired by child development and investigating biologically-inspired approaches to robot navigation and control. 
+<!-- We conduct basic research in computer vision and machine learning, and work in a number of interdisciplinary areas: developmental and social psychology, autism research, mobile health, and robotics. The study of human social and cognitive behavior is a cross-cutting theme. We are developing novel methods for measuring behavior in real-life settings, and computational models that connect health-related behaviors to health outcomes in order to enable novel forms of treatment. We are creating machine learning methods that are inspired by child development and investigating biologically-inspired approaches to robot navigation and control.  -->
 
-Prospective Students: If you are interested in joining our group and are not currently at UIUC, please apply directly to the university. For current/incoming UIUC students, please fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSeAdrlUVz7FOKKL8rdXumRXKqUB8Do1mslhoFSMhNlmuhoshA/viewform">form</a>.
+We conduct foundational research in computer vision and machine learning, with broad applications in human-centered and interdisciplinary domains. Our work spans developmental and social psychology, autism research, mobile health, and robotics.
+
+A central theme of our work is understanding human social and cognitive behavior. We develop novel sensing technologies and computational models that capture behavior in real-world contexts and connect health-related behaviors to clinical outcomes, enabling new forms of assessment and treatment.
+
+In addition, we explore machine learning paradigms inspired by child development, and biologically-inspired methods for robot perception, navigation, and control. Our recent work has expanded to multimodal foundation models, social AI, and large-scale video datasets such as Ego4D, reflecting a broader vision at the intersection of human behavior, health, and intelligent systems.
+
+<!-- Prospective Students: If you are interested in joining our group and are not currently at UIUC, please apply directly to the university. For current/incoming UIUC students, please fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSeAdrlUVz7FOKKL8rdXumRXKqUB8Do1mslhoFSMhNlmuhoshA/viewform">form</a>. -->
+
+Prospective Students: We welcome Master’s and undergraduate students, as well as (remote) global interns. If you are interested in joining our group and are a current/incoming UIUC student, please fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSeAdrlUVz7FOKKL8rdXumRXKqUB8Do1mslhoFSMhNlmuhoshA/viewform">form</a>. If you are not currently at UIUC, please apply directly to the university.
 
 ![labphoto](/img/rafting_2021.jpg)

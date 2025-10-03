@@ -58,7 +58,6 @@ A central theme of our work is understanding human social and cognitive behavior
 In addition, we explore machine learning paradigms inspired by child development, and biologically-inspired methods for robot perception, navigation, and control. Our recent work has expanded to multimodal foundation models, social AI, and large-scale video datasets such as Ego4D, reflecting a broader vision at the intersection of human behavior, health, and intelligent systems.
 
 <!-- Prospective Students: If you are interested in joining our group and are not currently at UIUC, please apply directly to the university. For current/incoming UIUC students, please fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSeAdrlUVz7FOKKL8rdXumRXKqUB8Do1mslhoFSMhNlmuhoshA/viewform">form</a>. -->
-
-Prospective Students: We welcome Master’s and undergraduate students, as well as (remote) global interns. If you are interested in joining our group and are a current/incoming UIUC student, please fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSeAdrlUVz7FOKKL8rdXumRXKqUB8Do1mslhoFSMhNlmuhoshA/viewform">form</a>. If you are not currently at UIUC, please apply directly to the university.
+Prospective Students: We welcome Masters and undergraduate students, as well as (remote) global interns. If you are interested in joining our group and are a current/incoming UIUC student, please fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSeAdrlUVz7FOKKL8rdXumRXKqUB8Do1mslhoFSMhNlmuhoshA/viewform">form</a>. If you are not currently at UIUC, please apply directly to the university.
 
 ![labphoto](/img/rafting_2021.jpg)

@@ -1,4 +1,4 @@
----
+A---
 title: "Improving Personalized Search with Regularized Low-Rank Parameter Updates"
 authors:
 - Fiona Ryan, Josef Sivic, Fabian Caba Heilbron, Judy Hoffman, James M Rehg, Bryan Russell

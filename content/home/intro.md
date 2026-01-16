@@ -55,7 +55,7 @@ We conduct foundational research in computer vision and machine learning, with b
 
 ### Prospective Students
 
-**PhD Applicants:** We are always looking for exceptional students. Please note that PhD admissions at UIUC are centralized. Directly apply to the Computer Science doctoral programs. You should mention Professor Rehg in your statement of purpose. <u>Please do not contact Professor Rehg directly.</u>
+**PhD Applicants:** We are always looking for exceptional students. Please note that PhD admissions at UIUC are centralized. Directly apply to the Computer Science doctoral programs. You should mention Prof. Rehg in your statement of purpose. <u>Please do not contact Professor Rehg directly.</u>
 
 **Postdocs:** If you are interested in a postdoctoral position, please include your CV and a brief statement of research interests.
 

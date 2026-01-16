@@ -34,7 +34,7 @@ subtitle = ""
 
 **PhD Applicants:** We are always looking for exceptional students. Please note that PhD admissions at UIUC are centralized. Directly apply to the Computer Science doctoral programs. You should mention Prof. Rehg in your statement of purpose. <u>Please do not contact Professor Rehg directly.</u>
 
-**Postdocs:** If you are interested in a postdoctoral position, please include your CV and a brief statement of research interests.
+**Postdocs:** If you are interested in a postdoctoral position, please email Prof. Rehg with your CV and a brief statement of research interests.
 
 **UIUC Undergrad/MSCS Students:** We offer research opportunities for motivated UIUC students. <u>Please do not contact Professor Rehg directly.</u> Instead, fill out our <a href="https://docs.google.com/forms/d/e/1FAIpQLSewUXWrlVlDBhAW82IHTlaHKwjmPcB3L5ifAJd0e55a8Lkcag/viewform?usp=dialog">form</a>. We review these regularly and will reach out if your skills match an open project.
 

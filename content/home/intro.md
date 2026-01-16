@@ -53,7 +53,14 @@ subtitle = ""
 
 We conduct foundational research in computer vision and machine learning, with broad applications in human-centered and interdisciplinary domains. Our work spans developmental and social psychology, autism research, mobile health, and robotics. A central theme of our work is understanding human social and cognitive behavior. We develop novel sensing technologies and computational models that capture behavior in real-world contexts and connect health-related behaviors to clinical outcomes, enabling new forms of assessment and treatment. In addition, we explore machine learning paradigms inspired by child development, and biologically-inspired methods for robot perception, navigation, and control. Our recent work has expanded to multimodal foundation models, social AI, and large-scale video datasets such as Ego4D, reflecting a broader vision at the intersection of human behavior, health, and intelligent systems.
 
-<!-- Prospective Students: If you are interested in joining our group and are not currently at UIUC, please apply directly to the university. For current/incoming UIUC students, please fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSeAdrlUVz7FOKKL8rdXumRXKqUB8Do1mslhoFSMhNlmuhoshA/viewform">form</a>. -->
-Prospective Students: We welcome Masters and undergraduate students, as well as (remote) global interns. If you are interested in joining our group and are a current/incoming UIUC student, please fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSeAdrlUVz7FOKKL8rdXumRXKqUB8Do1mslhoFSMhNlmuhoshA/viewform">form</a>. If you are not currently at UIUC, please apply directly to the university.
+### Prospective Students
+
+**PhD Applicants:** We are always looking for exceptional students. Please note that PhD admissions at UIUC are centralized. Directly apply to the Computer Science doctoral programs. You should mention Professor Rehg in your statement of purpose. <u>Please do not contact Professor Rehg directly.</u>
+
+**Postdocs:** If you are interested in a postdoctoral position, please include your CV and a brief statement of research interests.
+
+**UIUC Undergrad/MSCS Students:** We offer research opportunities for motivated UIUC students. <u>Please do not contact Professor Rehg directly.</u> Instead, fill out our <a href="https://docs.google.com/forms/d/e/1FAIpQLSewUXWrlVlDBhAW82IHTlaHKwjmPcB3L5ifAJd0e55a8Lkcag/viewform?usp=dialog">form</a>. We review these regularly and will reach out if your skills match an open project.
+
+**Non-UIUC Students:** External internship opportunities (including summer) are limited. If you are a student from another institution, please apply via the <a href="https://docs.google.com/forms/d/e/1FAIpQLSewUXWrlVlDBhAW82IHTlaHKwjmPcB3L5ifAJd0e55a8Lkcag/viewform?usp=dialog">form</a>. We review these regularly and will reach out if your skills match an open project.
 
 ![labphoto](/img/rafting_2021.jpg)

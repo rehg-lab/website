@@ -39,7 +39,7 @@ external_link: https://ozdentarikcan.github.io/
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Lab Members
+- Master Students
 
 weight: 34
 ---

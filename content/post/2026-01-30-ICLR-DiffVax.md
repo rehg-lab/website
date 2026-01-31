@@ -1,5 +1,5 @@
 ---
-title: "1/29/26: One paper accepted at ICLR 2026"
+title: "Jan 2026: One paper accepted at ICLR 2026"
 date: "2026-01-29"
 external_link: https://diffvax.github.io
 tags:

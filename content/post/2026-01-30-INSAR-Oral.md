@@ -1,5 +1,5 @@
 ---
-title: "1/30/26: One abstract accepted for oral presentation at INSAR 2026"
+title: "Jan 2026: One abstract accepted for oral presentation at INSAR 2026"
 date: "2026-01-30"
 internal_link: true
 tags:

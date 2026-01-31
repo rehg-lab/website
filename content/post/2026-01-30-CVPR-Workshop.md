@@ -1,5 +1,5 @@
 ---
-title: "12/22/25: CVEU Workshop proposal accepted at CVPR 2026"
+title: "Dec 2025: CVEU Workshop proposal accepted at CVPR 2026"
 date: "2025-12-22"
 internal_link: true
 tags:

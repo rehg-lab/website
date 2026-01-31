@@ -1,7 +1,7 @@
 ---
 title: "DiffVax: Optimization-Free Image Immunization Against Diffusion-Based Editing"
 authors:
-- Tarik Can Ozden*, Ozgur Kara*, Oguzhan Akcin, Kerem Zaman, Shashank Srivastava, Sandeep P. Chinchali, James Matthew Rehg
+- Tarik Can Ozden, Ozgur Kara, Oguzhan Akcin, Kerem Zaman, Shashank Srivastava, Sandeep P. Chinchali, James Matthew Rehg
 date: "2026-01-29"
 doi: ""
 

@@ -1,5 +1,5 @@
 ---
-title: "7/20/20: NIH Funded $5.9M mDOT Center to Advance Mobile Health Research"
+title: "Jul 2020: NIH Funded $5.9M mDOT Center to Advance Mobile Health Research"
 date: "2020-07-28"
 internal_link: true
 tags:

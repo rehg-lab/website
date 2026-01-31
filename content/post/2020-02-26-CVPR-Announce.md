@@ -1,5 +1,5 @@
 ---
-title: "2/26/20: Two papers accepted to CVPR 2020"
+title: "Feb 2020: Two papers accepted to CVPR 2020"
 date: "2020-02-26"
 internal_link: true
 tags:

@@ -1,5 +1,5 @@
 ---
-title: "9/04/19: One paper accepted at NeurIPS 2019"
+title: "Sep 2019: One paper accepted at NeurIPS 2019"
 date: "2019-09-04"
 internal_link: true
 tags:

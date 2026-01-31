@@ -1,5 +1,5 @@
 ---
-title: "8/29/19: One paper accepted at 3DV 2019"
+title: "Aug 2019: One paper accepted at 3DV 2019"
 date: "2019-08-29"
 internal_link: true
 tags:

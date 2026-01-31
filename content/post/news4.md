@@ -1,5 +1,5 @@
 ---
-title: "8/05/20: Two papers accepted at BMVC 2020"
+title: "Aug 2020: Two papers accepted at BMVC 2020"
 date: "2020-08-05"
 internal_link: true
 tags:

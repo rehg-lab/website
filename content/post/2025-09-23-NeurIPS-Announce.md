@@ -1,5 +1,5 @@
 ---
-title: "9/23/25: Four papers accepted at NeurIPS 2025"
+title: "Sep 2025: Four papers accepted at NeurIPS 2025"
 date: "2025-09-23"
 internal_link: true
 tags:

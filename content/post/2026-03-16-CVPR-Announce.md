@@ -1,5 +1,5 @@
 ---
-title: "Feb 2026: Six main conference papers and two Findings papers accepted at CVPR 2026"
+title: "Feb 2026: Six main conference papers and two findings papers accepted at CVPR 2026"
 date: "2026-02-28"
 internal_link: true
 tags:

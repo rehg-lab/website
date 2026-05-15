@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Stanford Post Doc
+role: Google
 
 # Organizations/Affiliations
 organizations:

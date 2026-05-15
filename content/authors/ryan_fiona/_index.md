@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Postdoc @UC Berkeley 
 
 # Organizations/Affiliations
 organizations:
@@ -48,7 +48,7 @@ external_link: https://fkryan.github.io
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Students
+- Alumni
 
 weight: 11
 ---

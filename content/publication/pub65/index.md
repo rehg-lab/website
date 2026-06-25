@@ -2,7 +2,7 @@
 title: "Narrative-Driven Paper-to-Slide Generation via ArcDeck"
 authors:
 - Tarik Can Ozden, Sachidanand VS, Furkan Horoz, Ozgur Kara, Junho Kim, James Matthew Rehg
-date: "2026-10-01"
+date: "2026-06-25"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

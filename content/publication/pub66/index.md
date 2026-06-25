@@ -2,7 +2,7 @@
 title: "Kirin: Animal Motion Generation from In-the-Wild Video"
 authors:
 - Brian Nlong Zhao, Zhuoyang Pan, James Matthew Rehg, Jiajun Wu, Shangzhe Wu
-date: "2026-10-01"
+date: "2026-06-25"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

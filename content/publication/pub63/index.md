@@ -2,7 +2,7 @@
 title: "Decoding Children's Gait Behavior"
 authors:
 - Yifan Shen, Boyi Li, Meihuan Huang, Yuanzhe Liu, Xu Cao, Jinyang Jin, Zhengyuan Li, Anglin Liu, Junho Kim, Jingyuan Zhu, Lan Fangzhou, Jianguo Cao, Jintai Chen, Ismini Lourentzou, James Matthew Rehg
-date: "2026-10-01"
+date: "2026-06-25"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

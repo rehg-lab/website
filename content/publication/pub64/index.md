@@ -2,7 +2,7 @@
 title: "STRIDE: When to Speak Meets Sequence Denoising for Streaming Video Understanding"
 authors:
 - Junho Kim, Hosu Lee, James Matthew Rehg, Minsu Kim, Yong Man Ro
-date: "2026-10-01"
+date: "2026-06-25"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

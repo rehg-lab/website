@@ -2,7 +2,7 @@
 title: "Layer-Aware Video Composition via Split-then-Merge"
 authors:
 - Ozgur Kara, Yujia Chen, Ming-Hsuan Yang, James Matthew Rehg, Wen-Sheng Chu, Du Tran
-date: "2026-10-01"
+date: "2026-06-25"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

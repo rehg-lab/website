@@ -22,8 +22,8 @@ tags:
 
 links:
 # - name: Custom Link
-# url_project:
-# url_pdf:
+url_project: https://github.com/PediaMedAI/ChildrenGait
+url_pdf: https://arxiv.org/pdf/2608.00371
 # url_poster:
 # url_dataset:
 # url_poster: '#'

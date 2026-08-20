@@ -22,8 +22,8 @@ tags:
 
 links:
 # - name: Custom Link
-# url_project:
-# url_pdf:
+url_project: https://arcdeck.org/
+url_pdf: https://arxiv.org/pdf/2604.11969
 # url_poster:
 # url_dataset:
 # url_poster: '#'

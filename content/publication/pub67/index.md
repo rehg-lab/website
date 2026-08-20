@@ -22,8 +22,8 @@ tags:
 
 links:
 # - name: Custom Link
-# url_project:
-# url_pdf:
+url_project: https://split-then-merge.github.io/
+url_pdf: https://arxiv.org/pdf/2511.20809
 # url_poster:
 # url_dataset:
 # url_poster: '#'

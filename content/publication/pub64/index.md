@@ -22,8 +22,8 @@ tags:
 
 links:
 # - name: Custom Link
-# url_project:
-# url_pdf:
+url_project: https://interlive-team.github.io/STRIDE/
+url_pdf: https://arxiv.org/pdf/2603.27593
 # url_poster:
 # url_dataset:
 # url_poster: '#'

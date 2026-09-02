@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: "PhD Student<br><span class='coadvisor'>Co-advised with<br>Prof. Danfei Xu</span>"
 
 # Organizations/Affiliations
 organizations:

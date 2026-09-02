@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "PhD Student<br><small>Co-advised with Prof. Inki Kim</small>"
+role: "PhD Student<br><span class='coadvisor'>Co-advised with<br>Prof. Inki Kim</span>"
 
 # Organizations/Affiliations
 organizations:

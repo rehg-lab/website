@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: "PhD Student<br><small>Co-advised with Prof. Jimeng Sun</small>"
 
 # Organizations/Affiliations
 organizations:

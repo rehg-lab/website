@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D. Student
+role: "PhD Student<br><small>Co-advised with Prof. Ismini Lourentzou</small>"
 
 # Organizations/Affiliations
 organizations:

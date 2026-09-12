@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoc @UC Berkeley
+role: UC Berkeley
 
 # Organizations/Affiliations
 organizations:

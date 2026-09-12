@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Meta
+role: Tsinghua Univ.
 
 # Organizations/Affiliations
 organizations:

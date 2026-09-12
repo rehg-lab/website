@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Meta
+role: World Labs
 
 # Organizations/Affiliations
 organizations:

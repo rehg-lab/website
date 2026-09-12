@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: STR
+role: MBZUAI
 
 # Organizations/Affiliations
 organizations:

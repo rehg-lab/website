@@ -15,7 +15,7 @@ doi: ""
 publication_types: ["1"]
 
 # Venue
-venue: "NeurIPS 2026, D&B Track"
+venue: "NeurIPS 2026, E&D Track"
 
 tags:
 - publication

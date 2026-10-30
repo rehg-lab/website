@@ -1,0 +1,66 @@
+{{- define "main" -}}
+{{/*
+  Research area page (content/project/<area>/index.md).
+  Overrides themes/academic/layouts/project/single.html so every area uses the same layout:
+    title + summary -> Goal -> Research Highlights -> Publications.
+  Uses only existing site classes: article-container / page-subtitle / article-style from the theme's
+  article pages, and media stream-item-pub from the publication list (li_compact_pub.html).
+  All text comes from the page's front matter; see the comments in each index.md.
+*/}}
+{{ $page := . }}
+{{ $tbd := false }}
+{{ with site.GetPage "/publication" }}{{ $tbd = .Resources.GetMatch "tbd.png" }}{{ end }}
+
+<article class="article article-project">
+
+  <div class="article-container pt-3">
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.summary }}<p class="page-subtitle">{{ . | markdownify | emojify }}</p>{{ end }}
+  </div>
+
+  <div class="article-container">
+
+    {{ with .Params.goal }}
+    <div class="article-style">
+      <h2>Goal</h2>
+      {{ $page.RenderString (dict "display" "block") . }}
+    </div>
+    {{ end }}
+
+    {{ with .Params.highlights }}
+    <div class="article-style">
+      <h2>Research Highlights</h2>
+    </div>
+    {{ range . }}
+    {{ $item := . }}
+    {{ $img := $tbd }}
+    {{ with $item.image }}{{ with $page.Resources.GetMatch . }}{{ $img = . }}{{ end }}{{ end }}
+    <div class="media stream-item-pub">
+      {{ with $img }}
+      <div class="align-self-center mr-3">
+        <img src="{{ (.Resize "500x").RelPermalink }}" alt="{{ $item.title }}" width="200">
+      </div>
+      {{ end }}
+      <div class="align-self-center media-body">
+        <h3 class="article-title mb-0 mt-0">{{ $item.title | markdownify }}</h3>
+        {{ with $item.venue }}<h3 class="article-venue mb-0 mt-0">{{ . }}</h3>{{ end }}
+        {{ with $item.text }}{{ $page.RenderString (dict "display" "block") . }}{{ end }}
+        <div class="btn-links">
+          {{ range $item.links }}{{ if .url }}<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{ .url }}" target="_blank" rel="noopener">{{ .name }}</a>{{ end }}{{ end }}
+        </div>
+      </div>
+    </div>
+    {{ end }}
+    {{ end }}
+
+    {{ $pubs := where (where site.RegularPages "Type" "publication") ".Params.projects" "intersect" (slice .File.ContentBaseName) }}
+    {{ with $pubs }}
+    <div class="project-related-pages content-widget-hr">
+      <h2>Publications</h2>
+      {{ range .ByDate.Reverse }}{{ partial "li_compact_pub" . }}{{ end }}
+    </div>
+    {{ end }}
+
+  </div>
+</article>
+{{- end -}}

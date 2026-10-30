@@ -1,0 +1,26 @@
+{{/*
+  Overrides the theme's Showcase item (themes/academic/layouts/partials/portfolio_li_showcase.html).
+  Used by the Projects widget on the home page (content/home/projects.md, view = 5).
+  Each research area in content/project/ is shown 2 per row with the same markup and classes as
+  the publication list items (li_compact_pub.html): featured.* on the left, title and summary on the right.
+  Title is bold and summary is regular weight (Bootstrap utilities; the site loads 400 and 700 only).
+*/}}
+{{ $item := .item }}
+{{ $link := .link }}
+{{ $target := .target }}
+{{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
+
+<div class="col-12 col-md-6">
+  <div class="media stream-item-pub">
+    {{ with $resource }}
+    <div class="align-self-center mr-3">
+      {{ $image := .Resize "500x" }}
+      <a href="{{ $link }}" {{ $target | safeHTMLAttr }}><img src="{{ $image.RelPermalink }}" alt="{{ $item.Title }}" width="200"></a>
+    </div>
+    {{ end }}
+    <div class="align-self-center media-body">
+      <h3 class="article-title mb-0 mt-0 font-weight-bold"><a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title | markdownify | emojify }}</a></h3>
+      {{ with $item.Params.summary }}<h3 class="article-venue mb-0 mt-0 font-weight-normal">{{ . | markdownify | emojify }}</h3>{{ end }}
+    </div>
+  </div>
+</div>

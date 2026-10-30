@@ -32,6 +32,8 @@ subtitle = ""
  css_class = ""
 +++
 
+<p class="font-weight-bold recruiting-notice">We are actively recruiting PhD students for Fall 2027! If you are interested in joining our lab, please fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSf856eX9ayh-COg6zSJO-2DozVM0JTq5BVrNsWZtPABgiKEiw/viewform">form</a> in addition to applying to the UIUC CS PhD program.</p>
+
 **PhD Applicants:** We are always looking for exceptional students. Please note that PhD admissions at UIUC are centralized. Directly apply to the Computer Science doctoral programs. You should mention Prof. Rehg in your statement of purpose. <u>Please do not contact Prof. Rehg directly.</u>
 
 **Postdocs:** If you are interested in a postdoctoral position, please email Prof. Rehg with your CV and a brief statement of research interests.
